@@ -18,18 +18,73 @@
         }
     },
     {
-        "ip": "51.21.149.16",
-        "port": 43212,
-        "build": 22833,
-        "name": "Teams @ Sweden 1",
+        "ip": "38.7.199.11",
+        "port": 6,
+        "build": 21005,
+        "name": "\ud83d\udc09 Mortal Kombat TRIOS",
         "info": {
             "game_name": "Idle",
             "game_desc": "",
             "map_name": "Results",
-            "scene_text": "{\"v\":\"${A}:\",\"s\":[[\"${A}\",{\"r\":\"tipText\"}]]} | Throw strength is based on the direction you are holding.\nTo toss something gently in front of you, don't hold any direction.\n{\"r\":\"gameLeadersText\",\"s\":[[\"${COUNT}\",\"1\"]]} | {\"v\":\"${A}   ${B}\",\"s\":[[\"${A}\",{\"r\":\"upNextText\",\"s\":[[\"${COUNT}\",\"2\"]]}],[\"${B}\",{\"v\":\"${NAME} @ ${MAP}\",\"s\":[[\"${NAME}\",{\"r\":\"soloNameFilterText\",\"s\":[[\"${NAME}\",{\"t\":[\"gameNames\",\"Elimination\"]}]]}],[\"${MAP}\",{\"t\":[\"mapsNames\",\"Rampage\"]}]]}]]}\n{\"r\":\"playerText\"} | {\"r\":\"killsText\"} | {\"r\":\"deathsText\"} | Score | {\"r\":\"pressAnyKeyButtonText\"}\n{\"r\":\"drawText\"}",
+            "scene_text": "{\"v\":\"${A}:\",\"s\":[[\"${A}\",{\"r\":\"tipText\"}]]} | Always remember to floss. | 3\n{\"r\":\"gameLeadersText\",\"s\":[[\"${COUNT}\",\"23\"]]} | Reglas | 1. Ser respetuoso | {\"v\":\"${A}   ${B}\",\"s\":[[\"${A}\",{\"r\":\"upNextText\",\"s\":[[\"${COUNT}\",\"24\"]]}],[\"${B}\",{\"v\":\"${NAME} @ ${MAP}\",\"s\":[[\"${NAME}\",{\"t\":[\"gameNames\",\"\\ue048Mortal Kombat\\ue048\"]}],[\"${MAP}\",{\"t\":[\"mapsNames\",\"Rampage\"]}]]}]]}\n2. No hacer team | {\"r\":\"playerText\"} | {\"r\":\"killsText\"} | {\"r\":\"deathsText\"} | Score | 3. No farmear kills\n{\"r\":\"pressAnyKeyButtonText\"} | {\"v\":\"ping\\u00fcino good\"} | 0 | 0 | 0\n{\"r\":\"drawText\"}",
             "roster": [
-                "Server26487917 (Spectating)"
+                "Mr.Smoothy"
             ]
+        }
+    },
+    {
+        "ip": "84.32.10.121",
+        "port": 43210,
+        "build": 23013,
+        "name": "FFA",
+        "info": {
+            "game_name": "",
+            "game_desc": "",
+            "map_name": "",
+            "scene_text": "",
+            "roster": []
+        }
+    },
+    {
+        "ip": "91.239.208.137",
+        "port": 25788,
+        "build": 21005,
+        "name": "\ud83e\udd0dDream Space Test\ud83d\udda4",
+        "info": {
+            "game_name": "Epic Death Match",
+            "game_desc": "kill 99 enemies",
+            "map_name": "Courtyard",
+            "scene_text": "Cheating and abuse of role = ban\n Enjoy\n{\"r\":\"epicNameFilterText\",\"s\":[[\"${NAME}\",{\"t\":[\"gameNames\",\"Death Match\"]}]]} | \ud83e\udd0dDream Space Test\ud83d\udda4\n41m 50s | Top Players | \u23f1               \u23f1 | Thu Sep 03  16:55:32\n4|26d 0h\n#\n#1\n#2\n#3\n#4\n#5\n#6\n#7\n#8\n#9\n#10 | R\nG\nF\nF\nF\nG\nF\nG\nF\nF\nF | Lv\n8\n13\n12\n18\n9\n13\n8\n14\n10\n15 | Kills\n450\n622\n639\n458\n328\n235\n286\n191\n219\n745 | Name\n\ue043awez\nthe Legend\n\ue01emax payne\n933..233...38\u2026\nRice\n\u300e\ud835\udd7e\ud835\udd7b\ud835\udd74\ud835\udd6f\ud835\udd70\ud835\udd7d\u300f\u2744\ufe0f\nJUSTPLAYER\nthe power X\nmr.S\u20acX\n\u0422\u044b\u041a\u0432\u0410",
+            "roster": [
+                "Server25856099 (Spectating)"
+            ]
+        }
+    },
+    {
+        "ip": "96.0.1.121",
+        "port": 43256,
+        "build": 22833,
+        "name": "Teams @ Australia West 1",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "44.227.242.6",
+        "port": 43285,
+        "build": 22833,
+        "name": "FFA @ US West B 1",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "52.14.153.126",
+        "port": 43246,
+        "build": 22833,
+        "name": "Teams @ US East B 1",
+        "info": {
+            "error": "Timeout waiting for accept"
         }
     },
     {
@@ -42,19 +97,10 @@
         }
     },
     {
-        "ip": "38.7.199.11",
-        "port": 6,
-        "build": 21005,
-        "name": "\ud83d\udc09 Mortal Kombat TRIOS",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "3.99.217.149",
-        "port": 43222,
+        "ip": "52.14.153.126",
+        "port": 43296,
         "build": 22833,
-        "name": "Teams @ Canada 1",
+        "name": "FFA @ US East B 1",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -78,37 +124,10 @@
         }
     },
     {
-        "ip": "35.79.16.165",
-        "port": 43309,
+        "ip": "3.99.217.149",
+        "port": 43222,
         "build": 22833,
-        "name": "FFA @ Japan 2",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "43.209.2.224",
-        "port": 43220,
-        "build": 22833,
-        "name": "FFA @ Asia SE 1",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "82.39.109.114",
-        "port": 43211,
-        "build": 22381,
-        "name": "Sky | FFA",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "3.107.0.51",
-        "port": 43212,
-        "build": 22833,
-        "name": "Teams @ Australia East 1",
+        "name": "Teams @ Canada 1",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -123,10 +142,28 @@
         }
     },
     {
-        "ip": "3.8.146.128",
-        "port": 43252,
+        "ip": "35.79.16.165",
+        "port": 43309,
         "build": 22833,
-        "name": "FFA @ UK 2",
+        "name": "FFA @ Japan 2",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "82.39.109.114",
+        "port": 43211,
+        "build": 22381,
+        "name": "Sky | FFA",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "43.209.2.224",
+        "port": 43220,
+        "build": 22833,
+        "name": "FFA @ Asia SE 1",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -141,37 +178,19 @@
         }
     },
     {
+        "ip": "3.107.0.51",
+        "port": 43212,
+        "build": 22833,
+        "name": "Teams @ Australia East 1",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
         "ip": "95.133.236.143",
         "port": 25703,
         "build": 21005,
         "name": "Dream Space Bots",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "15.254.46.111",
-        "port": 43278,
-        "build": 22833,
-        "name": "Teams @ US West C 1",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "84.32.10.121",
-        "port": 43210,
-        "build": 23013,
-        "name": "FFA",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "3.8.146.128",
-        "port": 43293,
-        "build": 22833,
-        "name": "FFA @ UK 1",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -186,10 +205,55 @@
         }
     },
     {
+        "ip": "15.254.46.111",
+        "port": 43278,
+        "build": 22833,
+        "name": "Teams @ US West C 1",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "3.8.146.128",
+        "port": 43252,
+        "build": 22833,
+        "name": "FFA @ UK 2",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
         "ip": "64.187.128.232",
         "port": 43281,
         "build": 22833,
         "name": "FFA @ US East C 2",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "3.8.146.128",
+        "port": 43293,
+        "build": 22833,
+        "name": "FFA @ UK 1",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "140.245.6.85",
+        "port": 43210,
+        "build": 21005,
+        "name": "\ud83d\udc51GUJJU EPIC TEAMS\ud83d\udc51",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "96.0.163.126",
+        "port": 43228,
+        "build": 22833,
+        "name": "Teams @ Hawaii 1",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -213,12 +277,12 @@
         }
     },
     {
-        "ip": "83.220.174.237",
-        "port": 43007,
-        "build": 21005,
-        "name": "clan|war Edition",
+        "ip": "2a01:4f8:171:c70::2",
+        "port": 50777,
+        "build": 22350,
+        "name": "hfhfhff",
         "info": {
-            "error": "Timeout waiting for accept"
+            "error": "[Errno -9] Address family for hostname not supported"
         }
     },
     {
@@ -231,28 +295,19 @@
         }
     },
     {
-        "ip": "140.245.6.85",
+        "ip": "83.220.174.237",
+        "port": 43007,
+        "build": 21005,
+        "name": "clan|war Edition",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "140.245.4.75",
         "port": 43210,
         "build": 21005,
-        "name": "\ud83d\udc51GUJJU EPIC TEAMS\ud83d\udc51",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "3.34.186.68",
-        "port": 43292,
-        "build": 22833,
-        "name": "FFA @ South Korea 1",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "96.0.163.126",
-        "port": 43228,
-        "build": 22833,
-        "name": "Teams @ Hawaii 1",
+        "name": "|-SPBOI TEST SERVER-|",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -276,42 +331,6 @@
         }
     },
     {
-        "ip": "140.245.4.75",
-        "port": 43210,
-        "build": 21005,
-        "name": "|-SPBOI TEST SERVER-|",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "2a01:4f8:171:c70::2",
-        "port": 50777,
-        "build": 22350,
-        "name": "hfhfhff",
-        "info": {
-            "error": "[Errno -9] Address family for hostname not supported"
-        }
-    },
-    {
-        "ip": "96.0.1.121",
-        "port": 43231,
-        "build": 22833,
-        "name": "FFA @ Australia West 1",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "15.181.49.140",
-        "port": 43235,
-        "build": 22833,
-        "name": "FFA @ US Central H 1",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
         "ip": "15.220.64.29",
         "port": 43302,
         "build": 22833,
@@ -321,64 +340,19 @@
         }
     },
     {
-        "ip": "56.10.64.234",
-        "port": 43262,
+        "ip": "3.34.186.68",
+        "port": 43292,
         "build": 22833,
-        "name": "Teams @ Singapore 2",
+        "name": "FFA @ South Korea 1",
         "info": {
             "error": "Timeout waiting for accept"
         }
     },
     {
-        "ip": "51.21.149.16",
-        "port": 43223,
+        "ip": "96.0.1.121",
+        "port": 43231,
         "build": 22833,
-        "name": "FFA @ Sweden 2",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "52.53.219.141",
-        "port": 43280,
-        "build": 22833,
-        "name": "Teams @ US West 2",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "3.99.217.149",
-        "port": 43213,
-        "build": 22833,
-        "name": "FFA @ Canada 1",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "43.212.194.92",
-        "port": 43263,
-        "build": 22833,
-        "name": "Teams @ Taipei 1",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "3.8.146.128",
-        "port": 43234,
-        "build": 22833,
-        "name": "Teams @ UK 2",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "44.211.28.8",
-        "port": 43271,
-        "build": 22833,
-        "name": "FFA @ US East 1",
+        "name": "FFA @ Australia West 1",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -393,10 +367,82 @@
         }
     },
     {
-        "ip": "52.53.219.141",
-        "port": 43264,
+        "ip": "51.21.149.16",
+        "port": 43223,
         "build": 22833,
-        "name": "FFA @ US West 1",
+        "name": "FFA @ Sweden 2",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "15.181.49.140",
+        "port": 43235,
+        "build": 22833,
+        "name": "FFA @ US Central H 1",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "56.10.64.234",
+        "port": 43262,
+        "build": 22833,
+        "name": "Teams @ Singapore 2",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "3.99.217.149",
+        "port": 43213,
+        "build": 22833,
+        "name": "FFA @ Canada 1",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "52.53.219.141",
+        "port": 43280,
+        "build": 22833,
+        "name": "Teams @ US West 2",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "44.211.28.8",
+        "port": 43271,
+        "build": 22833,
+        "name": "FFA @ US East 1",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "3.8.146.128",
+        "port": 43234,
+        "build": 22833,
+        "name": "Teams @ UK 2",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "43.212.194.92",
+        "port": 43263,
+        "build": 22833,
+        "name": "Teams @ Taipei 1",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "51.21.149.16",
+        "port": 43212,
+        "build": 22833,
+        "name": "Teams @ Sweden 1",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -411,10 +457,10 @@
         }
     },
     {
-        "ip": "3.99.217.149",
-        "port": 43292,
+        "ip": "52.53.219.141",
+        "port": 43264,
         "build": 22833,
-        "name": "Teams @ Canada 2",
+        "name": "FFA @ US West 1",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -438,6 +484,15 @@
         }
     },
     {
+        "ip": "15.220.64.29",
+        "port": 43231,
+        "build": 22833,
+        "name": "FFA @ EU Central 1",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
         "ip": "103.115.45.150",
         "port": 43211,
         "build": 20995,
@@ -447,10 +502,10 @@
         }
     },
     {
-        "ip": "91.239.208.137",
-        "port": 25788,
-        "build": 21005,
-        "name": "\ud83e\udd0dDream Space Test\ud83d\udda4",
+        "ip": "3.99.217.149",
+        "port": 43292,
+        "build": 22833,
+        "name": "Teams @ Canada 2",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -474,19 +529,19 @@
         }
     },
     {
-        "ip": "15.220.64.29",
-        "port": 43231,
-        "build": 22833,
-        "name": "FFA @ EU Central 1",
+        "ip": "13.233.10.248",
+        "port": 43210,
+        "build": 22837,
+        "name": "\ud83d\udc51\ud83d\udc78 Girls vs Boys \ud83e\udd34\ud83d\udc51 #SMASH By Je",
         "info": {
             "error": "Timeout waiting for accept"
         }
     },
     {
-        "ip": "13.233.10.248",
-        "port": 43210,
-        "build": 22837,
-        "name": "\ud83d\udc51\ud83d\udc78 Girls vs Boys \ud83e\udd34\ud83d\udc51 #SMASH By Je",
+        "ip": "52.14.153.126",
+        "port": 43265,
+        "build": 22833,
+        "name": "Teams @ US East B 2",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -510,21 +565,21 @@
         }
     },
     {
-        "ip": "15.254.46.111",
-        "port": 43235,
-        "build": 22833,
-        "name": "FFA @ US West C 1",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
         "ip": "35.79.16.165",
         "port": 43263,
         "build": 22833,
         "name": "Teams @ Japan 2",
         "info": {
             "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "2a02:4780:6e:ffff::1",
+        "port": 43293,
+        "build": 21005,
+        "name": "Futbol Bombsquad Galaxy | Oficia",
+        "info": {
+            "error": "[Errno -9] Address family for hostname not supported"
         }
     },
     {
@@ -537,10 +592,19 @@
         }
     },
     {
-        "ip": "52.14.153.126",
-        "port": 43265,
+        "ip": "2606:2040:2800:2f:be24:11ff:fed3:2996",
+        "port": 43210,
+        "build": 21005,
+        "name": "TNT SOCCER SERVER",
+        "info": {
+            "error": "[Errno -9] Address family for hostname not supported"
+        }
+    },
+    {
+        "ip": "15.254.46.111",
+        "port": 43235,
         "build": 22833,
-        "name": "Teams @ US East B 2",
+        "name": "FFA @ US West C 1",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -556,24 +620,6 @@
     },
     {
         "ip": "165.227.69.173",
-        "port": 43210,
-        "build": 14377,
-        "name": "Smoooth W\ud83c\udf0erld | Epic Duel/Elim/S",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "2a02:4780:6e:ffff::1",
-        "port": 43293,
-        "build": 21005,
-        "name": "Futbol Bombsquad Galaxy | Oficia",
-        "info": {
-            "error": "[Errno -9] Address family for hostname not supported"
-        }
-    },
-    {
-        "ip": "165.227.69.173",
         "port": 43211,
         "build": 14373,
         "name": "Smoooth W\ud83c\udf0erld | Duel/Elim/Smash ",
@@ -582,46 +628,10 @@
         }
     },
     {
-        "ip": "2606:2040:2800:2f:be24:11ff:fed3:2996",
-        "port": 43210,
-        "build": 21005,
-        "name": "TNT SOCCER SERVER",
-        "info": {
-            "error": "[Errno -9] Address family for hostname not supported"
-        }
-    },
-    {
         "ip": "104.248.55.62",
-        "port": 43211,
-        "build": 14373,
-        "name": "Smoooth W\ud83c\udf0erld | Super Smash Team",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "3.99.217.149",
-        "port": 43309,
-        "build": 22833,
-        "name": "FFA @ Canada 2",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "44.227.242.6",
-        "port": 43305,
-        "build": 22833,
-        "name": "Teams @ US West B 1",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "96.0.41.252",
-        "port": 43293,
-        "build": 22833,
-        "name": "Teams @ Africa B 1",
+        "port": 43210,
+        "build": 14377,
+        "name": "Smoooth W\ud83c\udf0erld | Epic Smash Teams",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -637,9 +647,9 @@
     },
     {
         "ip": "104.248.55.62",
-        "port": 43210,
-        "build": 14377,
-        "name": "Smoooth W\ud83c\udf0erld | Epic Smash Teams",
+        "port": 43211,
+        "build": 14373,
+        "name": "Smoooth W\ud83c\udf0erld | Super Smash Team",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -654,6 +664,33 @@
         }
     },
     {
+        "ip": "44.227.242.6",
+        "port": 43305,
+        "build": 22833,
+        "name": "Teams @ US West B 1",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "3.99.217.149",
+        "port": 43309,
+        "build": 22833,
+        "name": "FFA @ Canada 2",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "96.0.41.252",
+        "port": 43293,
+        "build": 22833,
+        "name": "Teams @ Africa B 1",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
         "ip": "15.220.169.171",
         "port": 43303,
         "build": 22833,
@@ -663,12 +700,16 @@
         }
     },
     {
-        "ip": "82.39.109.114",
-        "port": 1806,
-        "build": 21005,
-        "name": "SKY | DUEL: The Colliseum",
+        "ip": "165.227.69.173",
+        "port": 43210,
+        "build": 14377,
+        "name": "Smoooth W\ud83c\udf0erld | Epic Duel/Elim/S",
         "info": {
-            "error": "Timeout waiting for accept"
+            "game_name": "",
+            "game_desc": "",
+            "map_name": "",
+            "scene_text": "",
+            "roster": []
         }
     },
     {
@@ -681,10 +722,19 @@
         }
     },
     {
-        "ip": "80.225.238.35",
-        "port": 43210,
-        "build": 22381,
-        "name": "\ud83d\udc51BABUR VS ALPHA EPIC TEAMS\ud83d\udc51",
+        "ip": "82.39.109.114",
+        "port": 1806,
+        "build": 21005,
+        "name": "SKY | DUEL: The Colliseum",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "3.34.186.68",
+        "port": 43247,
+        "build": 22833,
+        "name": "Teams @ South Korea 1",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -694,15 +744,6 @@
         "port": 43218,
         "build": 22833,
         "name": "Teams @ Japan 1",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "44.211.28.8",
-        "port": 43237,
-        "build": 22833,
-        "name": "FFA @ US East 2",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -718,36 +759,9 @@
     },
     {
         "ip": "44.211.28.8",
-        "port": 43242,
+        "port": 43237,
         "build": 22833,
-        "name": "Teams @ US East 1",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "52.53.219.141",
-        "port": 43230,
-        "build": 22833,
-        "name": "FFA @ US West 2",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "3.34.186.68",
-        "port": 43247,
-        "build": 22833,
-        "name": "Teams @ South Korea 1",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "78.12.102.15",
-        "port": 43282,
-        "build": 22833,
-        "name": "Teams @ Mexico A 1",
+        "name": "FFA @ US East 2",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -762,10 +776,19 @@
         }
     },
     {
-        "ip": "54.20.103.76",
+        "ip": "52.53.219.141",
+        "port": 43230,
+        "build": 22833,
+        "name": "FFA @ US West 2",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "44.211.28.8",
         "port": 43242,
         "build": 22833,
-        "name": "Teams @ South America 1",
+        "name": "Teams @ US East 1",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -780,28 +803,37 @@
         }
     },
     {
+        "ip": "80.225.238.35",
+        "port": 43210,
+        "build": 22381,
+        "name": "\ud83d\udc51BABUR VS ALPHA EPIC TEAMS\ud83d\udc51",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "78.12.102.15",
+        "port": 43282,
+        "build": 22833,
+        "name": "Teams @ Mexico A 1",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "54.20.103.76",
+        "port": 43242,
+        "build": 22833,
+        "name": "Teams @ South America 1",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
         "ip": "18.212.142.249",
         "port": 2646,
         "build": 21005,
         "name": "test new",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "13.247.108.158",
-        "port": 43246,
-        "build": 22833,
-        "name": "FFA @ Africa 1",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "43.218.122.16",
-        "port": 43302,
-        "build": 22833,
-        "name": "Teams @ Jakarta 1",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -816,28 +848,10 @@
         }
     },
     {
-        "ip": "161.132.37.46",
-        "port": 1234,
-        "build": 21005,
-        "name": "\ud83c\udf6a GalletaBS Minijuegos | Discord",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "52.14.153.126",
-        "port": 43220,
+        "ip": "13.247.108.158",
+        "port": 43246,
         "build": 22833,
-        "name": "FFA @ US East B 2",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "51.95.128.123",
-        "port": 43275,
-        "build": 22833,
-        "name": "FFA @ Spain 1",
+        "name": "FFA @ Africa 1",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -852,19 +866,19 @@
         }
     },
     {
-        "ip": "78.12.102.15",
-        "port": 43307,
+        "ip": "43.218.122.16",
+        "port": 43302,
         "build": 22833,
-        "name": "FFA @ Mexico A 1",
+        "name": "Teams @ Jakarta 1",
         "info": {
             "error": "Timeout waiting for accept"
         }
     },
     {
-        "ip": "38.7.199.11",
-        "port": 3,
-        "build": 21005,
-        "name": "\u26e9\ufe0f\ud83d\udc09 \ufe0fMortal Kombat",
+        "ip": "51.95.128.123",
+        "port": 43275,
+        "build": 22833,
+        "name": "FFA @ Spain 1",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -888,19 +902,46 @@
         }
     },
     {
-        "ip": "43.199.133.208",
-        "port": 43241,
-        "build": 22833,
-        "name": "Teams @ Hong Kong 1",
+        "ip": "38.7.199.11",
+        "port": 3,
+        "build": 21005,
+        "name": "\u26e9\ufe0f\ud83d\udc09 \ufe0fMortal Kombat",
         "info": {
             "error": "Timeout waiting for accept"
         }
     },
     {
-        "ip": "96.0.1.121",
-        "port": 43250,
+        "ip": "161.132.37.46",
+        "port": 1234,
+        "build": 21005,
+        "name": "\ud83c\udf6a GalletaBS Minijuegos | Discord",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "78.12.102.15",
+        "port": 43307,
         "build": 22833,
-        "name": "Teams @ Australia West 1",
+        "name": "FFA @ Mexico A 1",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "56.10.64.234",
+        "port": 43219,
+        "build": 22833,
+        "name": "FFA @ Singapore 2",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "43.199.133.208",
+        "port": 43241,
+        "build": 22833,
+        "name": "Teams @ Hong Kong 1",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -916,18 +957,9 @@
     },
     {
         "ip": "56.10.64.234",
-        "port": 43219,
+        "port": 43260,
         "build": 22833,
-        "name": "FFA @ Singapore 2",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "3.7.62.77",
-        "port": 43226,
-        "build": 22833,
-        "name": "FFA @ India 1",
+        "name": "FFA @ Singapore 1",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -942,10 +974,19 @@
         }
     },
     {
-        "ip": "15.220.142.205",
-        "port": 43243,
+        "ip": "38.7.199.11",
+        "port": 1,
+        "build": 21005,
+        "name": "\ud83c\udfae zPanxo Minijuegos | Discord =>",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "3.7.62.77",
+        "port": 43226,
         "build": 22833,
-        "name": "Teams @ India North 1",
+        "name": "FFA @ India 1",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -960,19 +1001,10 @@
         }
     },
     {
-        "ip": "38.7.199.11",
-        "port": 1,
-        "build": 21005,
-        "name": "\ud83c\udfae zPanxo Minijuegos | Discord =>",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "56.10.64.234",
-        "port": 43260,
+        "ip": "15.220.142.205",
+        "port": 43243,
         "build": 22833,
-        "name": "FFA @ Singapore 1",
+        "name": "Teams @ India North 1",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -987,15 +1019,6 @@
         }
     },
     {
-        "ip": "3.77.43.150",
-        "port": 43214,
-        "build": 22833,
-        "name": "FFA @ Germany 2",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
         "ip": "52.53.219.141",
         "port": 43229,
         "build": 22833,
@@ -1005,10 +1028,19 @@
         }
     },
     {
-        "ip": "129.151.165.95",
-        "port": 4444,
-        "build": 22381,
-        "name": "@ Fuse # Duels [AF]\ud83d\udd25",
+        "ip": "3.77.43.150",
+        "port": 43214,
+        "build": 22833,
+        "name": "FFA @ Germany 2",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "15.160.241.94",
+        "port": 43257,
+        "build": 22833,
+        "name": "FFA @ Italy 2",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -1023,19 +1055,46 @@
         }
     },
     {
-        "ip": "15.160.241.94",
-        "port": 43257,
-        "build": 22833,
-        "name": "FFA @ Italy 2",
+        "ip": "13.233.207.178",
+        "port": 43243,
+        "build": 22381,
+        "name": "\u26bdALPHA VS DEFENDER||PRO SOCCER\u26bd",
         "info": {
             "error": "Timeout waiting for accept"
         }
     },
     {
-        "ip": "13.233.207.178",
-        "port": 43243,
+        "ip": "129.151.165.95",
+        "port": 4444,
         "build": 22381,
-        "name": "\u26bdALPHA VS DEFENDER||PRO SOCCER\u26bd",
+        "name": "@ Fuse # Duels [AF]\ud83d\udd25",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "54.20.103.76",
+        "port": 43249,
+        "build": 22833,
+        "name": "FFA @ South America 2",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "51.89.2.129",
+        "port": 25674,
+        "build": 21005,
+        "name": "\ud83c\udf19\u2661\u0633\u064a\u0631\u0641\u0631 \u0639\u0631\u0628\u064a KAMITO\u2661\ud83c\udf19",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "72.41.0.190",
+        "port": 43221,
+        "build": 22833,
+        "name": "Teams @ US Central B 2",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -1051,18 +1110,9 @@
     },
     {
         "ip": "72.41.0.190",
-        "port": 43221,
+        "port": 43217,
         "build": 22833,
-        "name": "Teams @ US Central B 2",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "51.89.2.129",
-        "port": 25674,
-        "build": 21005,
-        "name": "\ud83c\udf19\u2661\u0633\u064a\u0631\u0641\u0631 \u0639\u0631\u0628\u064a KAMITO\u2661\ud83c\udf19",
+        "name": "FFA @ US Central B 2",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -1086,28 +1136,10 @@
         }
     },
     {
-        "ip": "54.20.103.76",
-        "port": 43249,
-        "build": 22833,
-        "name": "FFA @ South America 2",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "72.41.0.190",
-        "port": 43217,
-        "build": 22833,
-        "name": "FFA @ US Central B 2",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "16.112.12.129",
-        "port": 43225,
-        "build": 22833,
-        "name": "FFA @ India B 1",
+        "ip": "80.225.212.205",
+        "port": 43210,
+        "build": 22381,
+        "name": "\ud83d\udc80 WARMACHINE EPIC SOCCER \ud83d\udc80",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -1122,15 +1154,6 @@
         }
     },
     {
-        "ip": "38.250.161.160",
-        "port": 3,
-        "build": 21005,
-        "name": "Manguito \u2726 Futsal",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
         "ip": "64.187.128.232",
         "port": 43246,
         "build": 22833,
@@ -1140,19 +1163,10 @@
         }
     },
     {
-        "ip": "80.225.212.205",
-        "port": 43210,
-        "build": 22381,
-        "name": "\ud83d\udc80 WARMACHINE EPIC SOCCER \ud83d\udc80",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "72.41.0.190",
-        "port": 43215,
+        "ip": "16.112.12.129",
+        "port": 43225,
         "build": 22833,
-        "name": "FFA @ US Central B 1",
+        "name": "FFA @ India B 1",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -1167,6 +1181,24 @@
         }
     },
     {
+        "ip": "38.250.161.160",
+        "port": 3,
+        "build": 21005,
+        "name": "Manguito \u2726 Futsal",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "72.41.0.190",
+        "port": 43215,
+        "build": 22833,
+        "name": "FFA @ US Central B 1",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
         "ip": "144.24.131.170",
         "port": 43210,
         "build": 22381,
@@ -1176,19 +1208,19 @@
         }
     },
     {
-        "ip": "129.151.165.95",
-        "port": 6666,
-        "build": 22381,
-        "name": "@ Dark Nebula # Soccer [AF]\ud83d\ude08",
+        "ip": "38.7.199.11",
+        "port": 2,
+        "build": 21005,
+        "name": "Futgrandao - zPanxo",
         "info": {
             "error": "Timeout waiting for accept"
         }
     },
     {
-        "ip": "38.7.199.11",
-        "port": 2,
-        "build": 21005,
-        "name": "Futgrandao - zPanxo",
+        "ip": "129.151.165.95",
+        "port": 6666,
+        "build": 22381,
+        "name": "@ Dark Nebula # Soccer [AF]\ud83d\ude08",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -1212,15 +1244,6 @@
         }
     },
     {
-        "ip": "185.211.103.141",
-        "port": 4490,
-        "build": 21005,
-        "name": "\ua9c1\ud83d\udcab\ud80c\udda9\ud83e\udd3a\ud80c\uddaaYAGAMI DUELS\ud80c\udda9\ud83e\udd3a\ud80c\uddaa\u0633\u064a\u0631\u0641\u0631 \u0639\u0631\u0628\u064a\ud83d\udcab\ua9c2",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
         "ip": "141.144.228.196",
         "port": 43211,
         "build": 21949,
@@ -1230,19 +1253,52 @@
         }
     },
     {
-        "ip": "45.126.209.9",
-        "port": 43213,
-        "build": 21005,
-        "name": "\ud83d\udc95Futbol Teams||LaZoeXD MMI\ud83d\udc95",
+        "ip": "43.199.133.208",
+        "port": 43242,
+        "build": 22833,
+        "name": "FFA @ Hong Kong 1",
         "info": {
             "error": "Timeout waiting for accept"
         }
     },
     {
-        "ip": "149.104.66.183",
+        "ip": "185.211.103.141",
+        "port": 4490,
+        "build": 21005,
+        "name": "\ua9c1\ud83d\udcab\ud80c\udda9\ud83e\udd3a\ud80c\uddaaYAGAMI DUELS\ud80c\udda9\ud83e\udd3a\ud80c\uddaa\u0633\u064a\u0631\u0641\u0631 \u0639\u0631\u0628\u064a\ud83d\udcab\ua9c2",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "15.220.142.205",
+        "port": 43213,
+        "build": 22833,
+        "name": "FFA @ India North 2",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "43.209.2.224",
+        "port": 43283,
+        "build": 22833,
+        "name": "Teams @ Asia SE 1",
+        "info": {
+            "game_name": "",
+            "game_desc": "",
+            "map_name": "Tip Top",
+            "scene_text": "{\"v\":\"${A}:\",\"s\":[[\"${A}\",{\"r\":\"bestOfFinalText\",\"s\":[[\"${COUNT}\",\"7\"]]}]]}\n{\"r\":\"mostValuablePlayerText\"} | {\"r\":\"finalScoresText\"}\n{\"v\":\"\\ue063Wealth1000\"} | 56 | {\"v\":\"\\ue063Wealth1000\"}\n{\"v\":\"${A}:\",\"s\":[[\"${A}\",{\"r\":\"tipText\"}]]} | If you pick up a curse, your only hope for survival is to\nfind a health powerup in the next few seconds.\n{\"r\":\"mostViolentPlayerText\"} | {\"r\":\"pressAnyKeyButtonPlayAgainText\"} | Blue\n{\"v\":\"(${A})\",\"s\":[[\"${A}\",{\"r\":\"killsTallyText\",\"s\":[[\"${COUNT}\",\"0\"]]}]]}\n{\"v\":\"\\ue063Wealth1000\"}\n{\"r\":\"seriesWinLine1TeamText\"} | {\"r\":\"mostDestroyedPlayerText\"}\n{\"v\":\"(${A})\",\"s\":[[\"${A}\",{\"r\":\"deathsTallyText\",\"s\":[[\"${COUNT}\",\"0\"]]}]]}\n{\"v\":\"\\ue063Wealth1000\"} | {\"r\":\"seriesWinLine2Text\"} | {\"r\":\"gamesToText\",\"s\":[[\"${WINCOUNT}\",\"4\"],[\"${LOSECOUNT}\",\"1\"]]}",
+            "roster": [
+                "Server26487076 (Spectating)"
+            ]
+        }
+    },
+    {
+        "ip": "45.126.209.9",
         "port": 43213,
         "build": 21005,
-        "name": "\u26a1M\u00c7 X SQU\u2200D | Discord ~>",
+        "name": "\ud83d\udc95Futbol Teams||LaZoeXD MMI\ud83d\udc95",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -1257,19 +1313,19 @@
         }
     },
     {
-        "ip": "15.220.142.205",
-        "port": 43213,
-        "build": 22833,
-        "name": "FFA @ India North 2",
+        "ip": "197.45.40.22",
+        "port": 1717,
+        "build": 22764,
+        "name": "\u2606\u0633\u064a\u0631\u0641\u0631 \u0639\u0631\u0628\u064acreated by K9\u2606",
         "info": {
             "error": "Timeout waiting for accept"
         }
     },
     {
-        "ip": "56.10.64.234",
-        "port": 43251,
-        "build": 22833,
-        "name": "Teams @ Singapore 1",
+        "ip": "149.104.66.183",
+        "port": 43213,
+        "build": 21005,
+        "name": "\u26a1M\u00c7 X SQU\u2200D | Discord ~>",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -1284,12 +1340,12 @@
         }
     },
     {
-        "ip": "197.45.40.22",
-        "port": 1717,
-        "build": 22764,
-        "name": "\u2606\u0633\u064a\u0631\u0641\u0631 \u0639\u0631\u0628\u064acreated by K9\u2606",
+        "ip": "2603:c021:4000:b00:f0c9:66d3:ee36:7deb",
+        "port": 43210,
+        "build": 21005,
+        "name": "CREATE FREE SERVER",
         "info": {
-            "error": "Timeout waiting for accept"
+            "error": "[Errno -9] Address family for hostname not supported"
         }
     },
     {
@@ -1302,19 +1358,10 @@
         }
     },
     {
-        "ip": "217.182.168.108",
-        "port": 26471,
+        "ip": "185.211.103.215",
+        "port": 7778,
         "build": 21005,
-        "name": "\u0633\u064a\u0631\u0641\u0631 \u0639\u0631\u0628\u064a AIJOHN|FOOTBALL SOCCE",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "43.199.133.208",
-        "port": 43242,
-        "build": 22833,
-        "name": "FFA @ Hong Kong 1",
+        "name": "Hype soccer Elgalaba",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -1338,6 +1385,24 @@
         }
     },
     {
+        "ip": "56.10.64.234",
+        "port": 43251,
+        "build": 22833,
+        "name": "Teams @ Singapore 1",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "15.220.142.205",
+        "port": 43305,
+        "build": 22833,
+        "name": "Teams @ India North 2",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
         "ip": "3.77.43.150",
         "port": 43285,
         "build": 22833,
@@ -1347,46 +1412,10 @@
         }
     },
     {
-        "ip": "2a01:4f8:171:c70::2",
-        "port": 43210,
-        "build": 22350,
-        "name": "BombSquad Community Server",
-        "info": {
-            "error": "[Errno -9] Address family for hostname not supported"
-        }
-    },
-    {
-        "ip": "185.211.103.215",
-        "port": 7778,
-        "build": 21005,
-        "name": "Hype soccer Elgalaba",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "2603:c021:4000:b00:f0c9:66d3:ee36:7deb",
+        "ip": "152.67.11.35",
         "port": 43210,
         "build": 21005,
-        "name": "CREATE FREE SERVER",
-        "info": {
-            "error": "[Errno -9] Address family for hostname not supported"
-        }
-    },
-    {
-        "ip": "2409:8a70:c0a0:1740:a225:262e:1f5b:777a",
-        "port": 43211,
-        "build": 22353,
-        "name": "\ud83d\udde1\ud83d\udde1\ud83d\udde1\u7ec8\u6781\u80cc\u6c34\u4e00\u6218\ud83d\udde1\ud83d\udde1\ud83d\udde1",
-        "info": {
-            "error": "[Errno -9] Address family for hostname not supported"
-        }
-    },
-    {
-        "ip": "64.187.128.232",
-        "port": 43240,
-        "build": 22833,
-        "name": "Teams @ US East C 2",
+        "name": "\u26bdALPHA EPICS SOCCER\u26bd",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -1401,25 +1430,10 @@
         }
     },
     {
-        "ip": "144.24.111.48",
-        "port": 43211,
-        "build": 21005,
-        "name": "\ud83c\udf6aCookie pro server \u30c4(\u0633\u064a\u0631\u0641\u0631 \u0639\u0631\u0628\u064a)",
-        "info": {
-            "game_name": "Idle",
-            "game_desc": "",
-            "map_name": "Results",
-            "scene_text": "Game 2 Results\n{\"r\":\"playerText\"} | {\"r\":\"killsText\"} | {\"r\":\"deathsText\"} | {\"r\":\"playerText\"} | {\"r\":\"killsText\"} | {\"r\":\"deathsText\"} | Score | Score | {\"v\":\"${A}:\",\"s\":[[\"${A}\",{\"r\":\"tipText\"}]]} | Run back and forth before throwing a bomb\nto 'whiplash' it and throw it farther. | {\"r\":\"drawText\"}\n{\"v\":\"${A}   ${B}\",\"s\":[[\"${A}\",{\"r\":\"upNextText\",\"s\":[[\"${COUNT}\",\"3\"]]}],[\"${B}\",{\"v\":\"${NAME} @ ${MAP}\",\"s\":[[\"${NAME}\",{\"t\":[\"gameNames\",\"Tower Rush\"]}],[\"${MAP}\",{\"t\":[\"mapsNames\",\"Tower D\"]}]]}]]}\n{\"r\":\"pressAnyKeyButtonText\"}",
-            "roster": [
-                "Mr.Smoothy"
-            ]
-        }
-    },
-    {
         "ip": "54.20.103.76",
-        "port": 43292,
+        "port": 43220,
         "build": 22833,
-        "name": "Teams @ South America 2",
+        "name": "FFA @ South America 1",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -1429,6 +1443,15 @@
         "port": 43243,
         "build": 22833,
         "name": "FFA @ South America B 1",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "217.182.168.108",
+        "port": 26471,
+        "build": 21005,
+        "name": "\u0633\u064a\u0631\u0641\u0631 \u0639\u0631\u0628\u064a AIJOHN|FOOTBALL SOCCE",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -1452,21 +1475,39 @@
         }
     },
     {
-        "ip": "15.220.142.205",
-        "port": 43305,
-        "build": 22833,
-        "name": "Teams @ India North 2",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
         "ip": "3.77.43.150",
         "port": 43292,
         "build": 22833,
         "name": "Teams @ Germany 1",
         "info": {
             "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "2409:8a70:c0a0:1740:a225:262e:1f5b:777a",
+        "port": 43211,
+        "build": 22353,
+        "name": "\ud83d\udde1\ud83d\udde1\ud83d\udde1\u7ec8\u6781\u80cc\u6c34\u4e00\u6218\ud83d\udde1\ud83d\udde1\ud83d\udde1",
+        "info": {
+            "error": "[Errno -9] Address family for hostname not supported"
+        }
+    },
+    {
+        "ip": "129.154.254.49",
+        "port": 43220,
+        "build": 21005,
+        "name": "\u26bd\ud83c\udfc6 DIVINE EPIC SOCCER \ud83c\udfc6\u26bd",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "2a01:4f8:171:c70::2",
+        "port": 43210,
+        "build": 22350,
+        "name": "BombSquad Community Server",
+        "info": {
+            "error": "[Errno -9] Address family for hostname not supported"
         }
     },
     {
@@ -1497,46 +1538,10 @@
         }
     },
     {
-        "ip": "54.20.103.76",
-        "port": 43220,
-        "build": 22833,
-        "name": "FFA @ South America 1",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "152.67.11.35",
-        "port": 43210,
+        "ip": "129.150.35.197",
+        "port": 43334,
         "build": 21005,
-        "name": "\u26bdALPHA EPICS SOCCER\u26bd",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "3.7.62.77",
-        "port": 43272,
-        "build": 22833,
-        "name": "Teams @ India 2",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "3.7.62.77",
-        "port": 43225,
-        "build": 22833,
-        "name": "FFA @ India 2",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "129.154.254.49",
-        "port": 43220,
-        "build": 21005,
-        "name": "\u26bd\ud83c\udfc6 DIVINE EPIC SOCCER \ud83c\udfc6\u26bd",
+        "name": "CREATE FREE SERVER BY VORTEX(SG ",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -1551,37 +1556,10 @@
         }
     },
     {
-        "ip": "23.156.136.115",
-        "port": 3099,
-        "build": 21005,
-        "name": "\u2666\ufe0f\ud83c\uddf2 \ud83c\uddf7 /\ud83c\uddec \ud83c\uddf7 \ud83c\uddea \ud83c\uddf2 \u2666\ufe0f",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "2a01:4f8:171:c70::2",
-        "port": 61751,
-        "build": 22350,
-        "name": "chunnani",
-        "info": {
-            "error": "[Errno -9] Address family for hostname not supported"
-        }
-    },
-    {
-        "ip": "15.220.121.40",
-        "port": 43279,
+        "ip": "54.20.103.76",
+        "port": 43292,
         "build": 22833,
-        "name": "FFA @ South America D 1",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "13.38.229.154",
-        "port": 43286,
-        "build": 22833,
-        "name": "Teams @ France 2",
+        "name": "Teams @ South America 2",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -1605,19 +1583,28 @@
         }
     },
     {
-        "ip": "129.150.35.197",
-        "port": 43334,
-        "build": 21005,
-        "name": "CREATE FREE SERVER BY VORTEX(SG ",
+        "ip": "3.7.62.77",
+        "port": 43272,
+        "build": 22833,
+        "name": "Teams @ India 2",
         "info": {
             "error": "Timeout waiting for accept"
         }
     },
     {
-        "ip": "43.218.122.16",
-        "port": 43271,
+        "ip": "64.187.128.232",
+        "port": 43240,
         "build": 22833,
-        "name": "FFA @ Jakarta 1",
+        "name": "Teams @ US East C 2",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "15.220.121.40",
+        "port": 43279,
+        "build": 22833,
+        "name": "FFA @ South America D 1",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -1632,10 +1619,55 @@
         }
     },
     {
+        "ip": "2a01:4f8:171:c70::2",
+        "port": 61751,
+        "build": 22350,
+        "name": "chunnani",
+        "info": {
+            "error": "[Errno -9] Address family for hostname not supported"
+        }
+    },
+    {
+        "ip": "23.156.136.115",
+        "port": 3099,
+        "build": 21005,
+        "name": "\u2666\ufe0f\ud83c\uddf2 \ud83c\uddf7 /\ud83c\uddec \ud83c\uddf7 \ud83c\uddea \ud83c\uddf2 \u2666\ufe0f",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "13.38.229.154",
+        "port": 43286,
+        "build": 22833,
+        "name": "Teams @ France 2",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "3.7.62.77",
+        "port": 43225,
+        "build": 22833,
+        "name": "FFA @ India 2",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
         "ip": "120.26.237.72",
         "port": 43211,
         "build": 20995,
         "name": "\ud83c\udf89P\u67d0\u03b1\u670d \u6df7\u6218\u751f\u5b58\ud83c\udfc1 \u52a0\u7fa4->",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "120.26.237.72",
+        "port": 43212,
+        "build": 20995,
+        "name": "\ud83e\udd16P\u67d0\u03b3\u670d PVE\ud83c\udfc1",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -1659,10 +1691,10 @@
         }
     },
     {
-        "ip": "144.24.111.48",
-        "port": 43210,
-        "build": 21005,
-        "name": "BCS # Fun Games \ud83d\udc30",
+        "ip": "43.218.122.16",
+        "port": 43271,
+        "build": 22833,
+        "name": "FFA @ Jakarta 1",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -1677,24 +1709,6 @@
         }
     },
     {
-        "ip": "149.104.66.183",
-        "port": 43210,
-        "build": 21005,
-        "name": "\ud83c\udf96\ufe0fFMA \u25b2 El Huiracocha\u2606*\u2727",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "120.26.237.72",
-        "port": 43212,
-        "build": 20995,
-        "name": "\ud83e\udd16P\u67d0\u03b3\u670d PVE\ud83c\udfc1",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
         "ip": "96.0.49.179",
         "port": 43240,
         "build": 22833,
@@ -1704,10 +1718,55 @@
         }
     },
     {
+        "ip": "144.24.159.151",
+        "port": 48000,
+        "build": 22381,
+        "name": "\ud83d\udc51\ud83c\udfc6RCB vs SRH Epic Teams\ud83c\udfc6\ud83d\udc51",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "144.24.111.48",
+        "port": 43210,
+        "build": 21005,
+        "name": "BCS # Fun Games \ud83d\udc30",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
         "ip": "35.154.180.25",
         "port": 43210,
         "build": 21005,
         "name": "\ud83d\udd25SORCERER VS CURSE\ud83d\ude08",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "149.104.66.183",
+        "port": 43210,
+        "build": 21005,
+        "name": "\ud83c\udf96\ufe0fFMA \u25b2 El Huiracocha\u2606*\u2727",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "161.132.37.46",
+        "port": 23,
+        "build": 21005,
+        "name": "\ud83e\udd54GalletaBS Hot Potato | Discord ",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "96.0.16.230",
+        "port": 43231,
+        "build": 22833,
+        "name": "FFA @ South America C 1",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -1731,10 +1790,10 @@
         }
     },
     {
-        "ip": "43.209.2.224",
-        "port": 43283,
-        "build": 22833,
-        "name": "Teams @ Asia SE 1",
+        "ip": "163.245.213.217",
+        "port": 43210,
+        "build": 22304,
+        "name": "FFA",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -1749,55 +1808,10 @@
         }
     },
     {
-        "ip": "144.24.159.151",
-        "port": 48000,
-        "build": 22381,
-        "name": "\ud83d\udc51\ud83c\udfc6RCB vs SRH Epic Teams\ud83c\udfc6\ud83d\udc51",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "15.220.142.205",
-        "port": 43256,
-        "build": 22833,
-        "name": "FFA @ India North 1",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "13.201.84.94",
-        "port": 43210,
-        "build": 22381,
-        "name": "\ud83c\udf53ALPHA & PDF || EPIC FFA\ud83c\udf53",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "96.0.16.230",
-        "port": 43231,
-        "build": 22833,
-        "name": "FFA @ South America C 1",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
         "ip": "3.110.210.11",
         "port": 53210,
         "build": 22381,
         "name": "\ud83e\udd4aBAZINGA \u2694\ufe0f ARTUSK COMBAT\ud83e\udd4a",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "163.245.213.217",
-        "port": 43210,
-        "build": 22304,
-        "name": "FFA",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -1812,6 +1826,15 @@
         }
     },
     {
+        "ip": "80.225.214.50",
+        "port": 43243,
+        "build": 22381,
+        "name": "\ud83d\udc51 Create Free server by Alpha \ud83d\udc51",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
         "ip": "56.124.78.18",
         "port": 43210,
         "build": 22381,
@@ -1821,37 +1844,37 @@
         }
     },
     {
-        "ip": "161.132.37.46",
-        "port": 23,
-        "build": 21005,
-        "name": "\ud83e\udd54GalletaBS Hot Potato | Discord ",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "83.166.246.154",
-        "port": 43270,
-        "build": 22839,
-        "name": "\u0424\u0443\u0442\u0431\u043e\u043b/Soccer\u2800\u2800",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "15.160.241.94",
-        "port": 43271,
+        "ip": "15.220.142.205",
+        "port": 43256,
         "build": 22833,
-        "name": "Teams @ Italy 2",
+        "name": "FFA @ India North 1",
         "info": {
             "error": "Timeout waiting for accept"
         }
     },
     {
-        "ip": "80.225.214.50",
-        "port": 43243,
-        "build": 22381,
-        "name": "\ud83d\udc51 Create Free server by Alpha \ud83d\udc51",
+        "ip": "15.207.84.29",
+        "port": 43210,
+        "build": 21005,
+        "name": "\ud83c\udf2a\ufe0fALPHA VS OMEGA || TEAMS\u2122",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "144.24.111.48",
+        "port": 43211,
+        "build": 21005,
+        "name": "\ud83c\udf6aCookie pro server \u30c4(\u0633\u064a\u0631\u0641\u0631 \u0639\u0631\u0628\u064a)",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "87.107.5.122",
+        "port": 54322,
+        "build": 22648,
+        "name": "\ud83c\uddee\ud83c\uddf7Vanilla - Co-op\ud83c\uddee\ud83c\uddf7",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -1866,10 +1889,19 @@
         }
     },
     {
-        "ip": "15.207.84.29",
-        "port": 43210,
-        "build": 21005,
-        "name": "\ud83c\udf2a\ufe0fALPHA VS OMEGA || TEAMS\u2122",
+        "ip": "15.160.241.94",
+        "port": 43271,
+        "build": 22833,
+        "name": "Teams @ Italy 2",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "83.166.246.154",
+        "port": 43270,
+        "build": 22839,
+        "name": "\u0424\u0443\u0442\u0431\u043e\u043b/Soccer\u2800\u2800",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -1902,19 +1934,19 @@
         }
     },
     {
-        "ip": "129.151.46.134",
-        "port": 43243,
+        "ip": "129.121.35.49",
+        "port": 1,
         "build": 21005,
-        "name": "\ud83e\udd1c ALPHA EPICS 2v2 \ud83e\udd1b",
+        "name": "Futbol Mango",
         "info": {
             "error": "Timeout waiting for accept"
         }
     },
     {
-        "ip": "87.107.5.122",
-        "port": 54322,
-        "build": 22648,
-        "name": "\ud83c\uddee\ud83c\uddf7Vanilla - Co-op\ud83c\uddee\ud83c\uddf7",
+        "ip": "13.233.94.36",
+        "port": 43210,
+        "build": 22381,
+        "name": "\ud83d\udcab TAMIL SERVER OFFICIAL \u2728",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -1929,19 +1961,10 @@
         }
     },
     {
-        "ip": "129.121.35.49",
-        "port": 1,
+        "ip": "129.151.46.134",
+        "port": 43243,
         "build": 21005,
-        "name": "Futbol Mango",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "13.233.94.36",
-        "port": 43210,
-        "build": 22381,
-        "name": "\ud83d\udcab TAMIL SERVER OFFICIAL \u2728",
+        "name": "\ud83e\udd1c ALPHA EPICS 2v2 \ud83e\udd1b",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -1962,19 +1985,6 @@
         "name": "\ud83c\udf89 HYPNOSIS BS 2|| CASUAL SMASH F",
         "info": {
             "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "34.93.10.182",
-        "port": 43212,
-        "build": 22812,
-        "name": "\u2b50|VORTEX EPIC TEAMS|\u2b50",
-        "info": {
-            "game_name": "",
-            "game_desc": "",
-            "map_name": "",
-            "scene_text": "",
-            "roster": []
         }
     },
     {
@@ -2014,33 +2024,6 @@
         }
     },
     {
-        "ip": "82.39.109.114",
-        "port": 43214,
-        "build": 22381,
-        "name": "Sky | Futbol",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "13.233.161.49",
-        "port": 43210,
-        "build": 22381,
-        "name": "\ud83c\udf41BAZINGA \ud83d\udd30 FUMI EPIC TEAMS\ud83c\udf41",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "129.151.165.95",
-        "port": 1111,
-        "build": 22381,
-        "name": "@ Fuse # Epic Smash [AF]\ud83d\udd25",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
         "ip": "51.77.216.159",
         "port": 25653,
         "build": 21005,
@@ -2059,28 +2042,10 @@
         }
     },
     {
-        "ip": "149.104.66.183",
-        "port": 43211,
-        "build": 21005,
-        "name": "\u2604\ufe0fFMA \u25b2 Duel Pe",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "91.239.208.137",
-        "port": 25242,
-        "build": 21005,
-        "name": "\u0633\u064a\u0631\u0641\u0631 \u0639\u0631\u0628\u064a \u0633\u0643\u0631\u064a \u0627\u0645\u0643 \u0628\u062a\u0639\u0645\u0644 \u0633\u0643\u0633 \u0645\u0639",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "13.206.221.3",
-        "port": 43210,
-        "build": 22837,
-        "name": "\ud83d\udc51\ud83d\udc78 Girls vs Boys \ud83e\udd34\ud83d\udc51 #Classic Lov",
+        "ip": "82.39.109.114",
+        "port": 43214,
+        "build": 22381,
+        "name": "Sky | Futbol",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -2095,19 +2060,46 @@
         }
     },
     {
-        "ip": "185.211.103.141",
-        "port": 4698,
-        "build": 21005,
-        "name": "\ua9c1\u269c\ufe0f \u0633\u064a\u0631\u0641\u0631 \u0639\u0631\u0628\u064a YAGAMI \u269c\ufe0f\ua9c2",
+        "ip": "13.206.221.3",
+        "port": 43210,
+        "build": 22837,
+        "name": "\ud83d\udc51\ud83d\udc78 Girls vs Boys \ud83e\udd34\ud83d\udc51 #Classic Lov",
         "info": {
             "error": "Timeout waiting for accept"
         }
     },
     {
-        "ip": "13.206.221.3",
-        "port": 43215,
-        "build": 22837,
-        "name": "\ud83d\udc51\ud83d\udc78 Girls vs Boys \ud83e\udd34\ud83d\udc51 #ALL ADMINS ",
+        "ip": "149.104.66.183",
+        "port": 43211,
+        "build": 21005,
+        "name": "\u2604\ufe0fFMA \u25b2 Duel Pe",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "129.151.165.95",
+        "port": 1111,
+        "build": 22381,
+        "name": "@ Fuse # Epic Smash [AF]\ud83d\udd25",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "13.233.161.49",
+        "port": 43210,
+        "build": 22381,
+        "name": "\ud83c\udf41BAZINGA \ud83d\udd30 FUMI EPIC TEAMS\ud83c\udf41",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "91.239.208.137",
+        "port": 25242,
+        "build": 21005,
+        "name": "\u0633\u064a\u0631\u0641\u0631 \u0639\u0631\u0628\u064a \u0633\u0643\u0631\u064a \u0627\u0645\u0643 \u0628\u062a\u0639\u0645\u0644 \u0633\u0643\u0633 \u0645\u0639",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -2131,6 +2123,15 @@
         }
     },
     {
+        "ip": "13.206.221.3",
+        "port": 43211,
+        "build": 22837,
+        "name": "\ud83d\udc51\ud83d\udc78 Girls vs Boys \ud83e\udd34\ud83d\udc51 #CHARACTER M",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
         "ip": "47.101.209.209",
         "port": 34567,
         "build": 20995,
@@ -2140,28 +2141,28 @@
         }
     },
     {
-        "ip": "129.151.165.95",
-        "port": 2222,
-        "build": 22381,
-        "name": "@ Fuse # Epic FFA [AF]\ud83d\udd25",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "38.250.161.160",
-        "port": 1,
+        "ip": "185.211.103.141",
+        "port": 4698,
         "build": 21005,
-        "name": "Manguito \u2726 Duel",
+        "name": "\ua9c1\u269c\ufe0f \u0633\u064a\u0631\u0641\u0631 \u0639\u0631\u0628\u064a YAGAMI \u269c\ufe0f\ua9c2",
         "info": {
             "error": "Timeout waiting for accept"
         }
     },
     {
         "ip": "13.206.221.3",
-        "port": 43211,
+        "port": 43215,
         "build": 22837,
-        "name": "\ud83d\udc51\ud83d\udc78 Girls vs Boys \ud83e\udd34\ud83d\udc51 #CHARACTER M",
+        "name": "\ud83d\udc51\ud83d\udc78 Girls vs Boys \ud83e\udd34\ud83d\udc51 #ALL ADMINS ",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "3.110.210.11",
+        "port": 53211,
+        "build": 22381,
+        "name": "\ud83e\udd8bBAZINGA\ud83c\udf41HUNTRESS EPIC TEAMS\ud83e\udd8b",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -2185,6 +2186,15 @@
         }
     },
     {
+        "ip": "129.151.165.95",
+        "port": 2222,
+        "build": 22381,
+        "name": "@ Fuse # Epic FFA [AF]\ud83d\udd25",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
         "ip": "38.250.161.160",
         "port": 5,
         "build": 21005,
@@ -2194,19 +2204,10 @@
         }
     },
     {
-        "ip": "3.110.210.11",
-        "port": 53211,
-        "build": 22381,
-        "name": "\ud83e\udd8bBAZINGA\ud83c\udf41HUNTRESS EPIC TEAMS\ud83e\udd8b",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "161.132.37.46",
-        "port": 2,
+        "ip": "38.250.161.160",
+        "port": 1,
         "build": 21005,
-        "name": "\u26bd GalletaBS Futbolito | Discord",
+        "name": "Manguito \u2726 Duel",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -2230,10 +2231,46 @@
         }
     },
     {
+        "ip": "161.132.37.46",
+        "port": 2,
+        "build": 21005,
+        "name": "\u26bd GalletaBS Futbolito | Discord",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "185.211.103.141",
+        "port": 43210,
+        "build": 22597,
+        "name": "FFA",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "102.162.206.248",
+        "port": 43210,
+        "build": 22855,
+        "name": "HSMY FFA",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
         "ip": "103.90.160.146",
         "port": 43200,
         "build": 14376,
         "name": "\ud83c\udfc6TRONOS TEAMS MINIJUEGOS\ud83c\udfc6 By Mic",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "103.90.160.146",
+        "port": 43210,
+        "build": 14376,
+        "name": "\ud83c\udfc6TRONOS SUPER SMASH CLANES\ud83c\udfc6 By M",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -2257,15 +2294,6 @@
         }
     },
     {
-        "ip": "87.107.5.122",
-        "port": 54321,
-        "build": 22648,
-        "name": "\ud83c\uddee\ud83c\uddf7Vanilla - FFA\ud83c\uddee\ud83c\uddf7",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
         "ip": "65.2.82.190",
         "port": 43210,
         "build": 21005,
@@ -2284,37 +2312,10 @@
         }
     },
     {
-        "ip": "141.11.5.156",
-        "port": 25765,
-        "build": 21005,
-        "name": "(\u0633\u064a\u0631\u0641\u0631 \u0639\u0631\u0628\u064a(\ud83e\udd4aRID\ud83d\udd25)\ud83d\udca5",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "103.90.160.146",
+        "ip": "13.233.145.51",
         "port": 43210,
-        "build": 14376,
-        "name": "\ud83c\udfc6TRONOS SUPER SMASH CLANES\ud83c\udfc6 By M",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "102.162.206.248",
-        "port": 43210,
-        "build": 22855,
-        "name": "HSMY FFA",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "185.211.103.141",
-        "port": 43210,
-        "build": 22597,
-        "name": "FFA",
+        "build": 14369,
+        "name": "\ud83e\udd4a|LUCIFER OFFICIAL EPIC TEAMS|\ud83e\udd4a",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -2329,10 +2330,10 @@
         }
     },
     {
-        "ip": "195.88.208.171",
-        "port": 43212,
-        "build": 22571,
-        "name": "\u2b50BSLIFE | DUEL 4",
+        "ip": "87.107.5.122",
+        "port": 54321,
+        "build": 22648,
+        "name": "\ud83c\uddee\ud83c\uddf7Vanilla - FFA\ud83c\uddee\ud83c\uddf7",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -2347,10 +2348,10 @@
         }
     },
     {
-        "ip": "69.9.187.16",
-        "port": 1044,
+        "ip": "5.39.63.207",
+        "port": 8196,
         "build": 22584,
-        "name": "Polska FFA",
+        "name": "Teams @ Pro MSB \u0633\u064a\u0631\u0641\u0631 \u0639\u0631\u0628\u064a \ud83d\udd7a",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -2365,55 +2366,10 @@
         }
     },
     {
-        "ip": "5.39.63.207",
-        "port": 8196,
-        "build": 22584,
-        "name": "Teams @ Pro MSB \u0633\u064a\u0631\u0641\u0631 \u0639\u0631\u0628\u064a \ud83d\udd7a",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "18.221.77.199",
-        "port": 43210,
-        "build": 22845,
-        "name": "\ud83c\uddfa\ud83c\uddf8 MALLU EPIC DUELS",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "93.177.64.145",
-        "port": 4641,
-        "build": 22584,
-        "name": "\u00a4\u2022\u00b0\u2606AIJOHN COMMUNTY\u2606\u00b0\u2022\u00a4",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "69.9.187.16",
-        "port": 1036,
-        "build": 22584,
-        "name": "Polska Teams",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "212.80.8.167",
-        "port": 11111,
-        "build": 22714,
-        "name": "\u2744\ufe0f\ud83e\udd4aFrozen Persia-Iran\u00a6Teams\ud83e\udd4a\u2744\ufe0f",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "13.233.145.51",
-        "port": 43210,
-        "build": 14369,
-        "name": "\ud83e\udd4a|LUCIFER OFFICIAL EPIC TEAMS|\ud83e\udd4a",
+        "ip": "141.11.5.156",
+        "port": 25765,
+        "build": 21005,
+        "name": "(\u0633\u064a\u0631\u0641\u0631 \u0639\u0631\u0628\u064a(\ud83e\udd4aRID\ud83d\udd25)\ud83d\udca5",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -2428,19 +2384,28 @@
         }
     },
     {
-        "ip": "45.126.209.70",
+        "ip": "18.221.77.199",
         "port": 43210,
-        "build": 14376,
-        "name": "\ud83d\udca5CAOS EPIC SMASH | CA\ud83d\udca5",
+        "build": 22845,
+        "name": "\ud83c\uddfa\ud83c\uddf8 MALLU EPIC DUELS",
         "info": {
             "error": "Timeout waiting for accept"
         }
     },
     {
-        "ip": "157.22.187.105",
-        "port": 43210,
-        "build": 22712,
-        "name": "\u0421\u0435\u0440\u0432\u0435\u0440 FightBall (ORIGINAL)",
+        "ip": "69.9.187.16",
+        "port": 1036,
+        "build": 22584,
+        "name": "Polska Teams",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "69.9.187.16",
+        "port": 1044,
+        "build": 22584,
+        "name": "Polska FFA",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -2455,19 +2420,50 @@
         }
     },
     {
-        "ip": "195.88.208.171",
-        "port": 43154,
-        "build": 22571,
-        "name": "\u2b50BSLIFE | FFA SMASH SLOW 16",
+        "ip": "157.22.187.105",
+        "port": 43210,
+        "build": 22712,
+        "name": "\u0421\u0435\u0440\u0432\u0435\u0440 FightBall (ORIGINAL)",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "212.80.8.167",
+        "port": 11111,
+        "build": 22714,
+        "name": "\u2744\ufe0f\ud83e\udd4aFrozen Persia-Iran\u00a6Teams\ud83e\udd4a\u2744\ufe0f",
         "info": {
             "error": "Timeout waiting for accept"
         }
     },
     {
         "ip": "195.88.208.171",
-        "port": 43167,
+        "port": 43212,
         "build": 22571,
-        "name": "\u2b50BSLIFE | DUEL 3",
+        "name": "\u2b50BSLIFE | DUEL 4",
+        "info": {
+            "game_name": "",
+            "game_desc": "",
+            "map_name": "",
+            "scene_text": "",
+            "roster": []
+        }
+    },
+    {
+        "ip": "93.177.64.145",
+        "port": 4641,
+        "build": 22584,
+        "name": "\u00a4\u2022\u00b0\u2606AIJOHN COMMUNTY\u2606\u00b0\u2022\u00a4",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "195.88.208.171",
+        "port": 43152,
+        "build": 22571,
+        "name": "\u2b50BSLIFE | FFA SMASH SLOW 15",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -2482,10 +2478,10 @@
         }
     },
     {
-        "ip": "95.133.236.143",
-        "port": 25951,
-        "build": 14369,
-        "name": "Dreamer Server Football",
+        "ip": "195.88.208.171",
+        "port": 43154,
+        "build": 22571,
+        "name": "\u2b50BSLIFE | FFA SMASH SLOW 16",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -2501,54 +2497,27 @@
     },
     {
         "ip": "195.88.208.171",
-        "port": 43152,
+        "port": 43167,
         "build": 22571,
-        "name": "\u2b50BSLIFE | FFA SMASH SLOW 15",
+        "name": "\u2b50BSLIFE | DUEL 3",
         "info": {
             "error": "Timeout waiting for accept"
         }
     },
     {
-        "ip": "195.88.208.171",
-        "port": 43175,
-        "build": 22571,
-        "name": "\u2b50BSLIFE | COOP INF ONSLAUGHT",
+        "ip": "34.93.10.182",
+        "port": 43212,
+        "build": 22812,
+        "name": "\u2b50|VORTEX EPIC TEAMS|\u2b50",
         "info": {
             "error": "Timeout waiting for accept"
         }
     },
     {
-        "ip": "195.88.208.171",
-        "port": 43197,
-        "build": 22571,
-        "name": "\u2b50BSLIFE | FFA SLOW 4",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "195.88.208.171",
-        "port": 43144,
-        "build": 22571,
-        "name": "\u2b50BSLIFE | FOOTBALL SLOW 4",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "5.180.34.59",
-        "port": 25262,
-        "build": 22764,
-        "name": "\ua9c1\u2728\u0633\u064a\u0631\u0641\u0631 \u0639\u0631\u0628\u064a\u2728|\u26bdYAGAMI SOCCER\u26bd\ua9c2",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "52.66.201.81",
+        "ip": "45.126.209.70",
         "port": 43210,
-        "build": 22584,
-        "name": "\ud83c\udf00\ud83c\udf2a\ufe0fMoon Light Super\ud83c\udf2a\ufe0f\ud83c\udf00",
+        "build": 14376,
+        "name": "\ud83d\udca5CAOS EPIC SMASH | CA\ud83d\udca5",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -2572,10 +2541,28 @@
         }
     },
     {
-        "ip": "45.126.209.9",
+        "ip": "95.133.236.143",
+        "port": 25934,
+        "build": 14369,
+        "name": "Dreamer Server Duel",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "52.66.201.81",
         "port": 43210,
-        "build": 22812,
-        "name": "\ud83d\udc95LaZoeXD MMI||Epic Smash FFA\ud83d\udc95",
+        "build": 22584,
+        "name": "\ud83c\udf00\ud83c\udf2a\ufe0fMoon Light Super\ud83c\udf2a\ufe0f\ud83c\udf00",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "95.133.236.143",
+        "port": 25951,
+        "build": 14369,
+        "name": "Dreamer Server Football",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -2585,6 +2572,60 @@
         "port": 43200,
         "build": 14369,
         "name": "\ud83c\udf8a LuckySquad : Caos \ud83c\udf89",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "5.180.34.59",
+        "port": 25262,
+        "build": 22764,
+        "name": "\ua9c1\u2728\u0633\u064a\u0631\u0641\u0631 \u0639\u0631\u0628\u064a\u2728|\u26bdYAGAMI SOCCER\u26bd\ua9c2",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "47.101.209.209",
+        "port": 43226,
+        "build": 20995,
+        "name": "\u2220\u9510\u89d2\u5de5\u827aAcuteCraft \u539f\u7248\u6700\u7ec8\u6740\u654c2\u670d Q\u7fa4\ud83d\udc49    ",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "195.88.208.171",
+        "port": 43144,
+        "build": 22571,
+        "name": "\u2b50BSLIFE | FOOTBALL SLOW 4",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "45.126.209.9",
+        "port": 43210,
+        "build": 22812,
+        "name": "\ud83d\udc95LaZoeXD MMI||Epic Smash FFA\ud83d\udc95",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "95.217.103.21",
+        "port": 43210,
+        "build": 22837,
+        "name": "TMPLAY FFA",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "195.88.208.171",
+        "port": 43197,
+        "build": 22571,
+        "name": "\u2b50BSLIFE | FFA SLOW 4",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -2608,15 +2649,6 @@
         }
     },
     {
-        "ip": "95.217.103.21",
-        "port": 43211,
-        "build": 22837,
-        "name": "TMPLAY TEAM",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
         "ip": "212.80.8.167",
         "port": 10101,
         "build": 22714,
@@ -2626,19 +2658,32 @@
         }
     },
     {
-        "ip": "47.101.209.209",
-        "port": 43226,
-        "build": 20995,
-        "name": "\u2220\u9510\u89d2\u5de5\u827aAcuteCraft \u539f\u7248\u6700\u7ec8\u6740\u654c2\u670d Q\u7fa4\ud83d\udc49    ",
+        "ip": "38.250.161.160",
+        "port": 6,
+        "build": 21005,
+        "name": "\u2620\ufe0fJujutsu Kaisen: Choque de Clan",
         "info": {
             "error": "Timeout waiting for accept"
         }
     },
     {
-        "ip": "94.101.178.104",
-        "port": 43108,
+        "ip": "195.88.208.171",
+        "port": 43175,
         "build": 22571,
-        "name": "\u2b50BSLIFE | UFC MATCH",
+        "name": "\u2b50BSLIFE | COOP INF ONSLAUGHT",
+        "info": {
+            "game_name": "",
+            "game_desc": "",
+            "map_name": "",
+            "scene_text": "",
+            "roster": []
+        }
+    },
+    {
+        "ip": "94.101.178.104",
+        "port": 43195,
+        "build": 22571,
+        "name": "\u2b50BSLIFE | FFA SMASH SLOW 03",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -2653,55 +2698,19 @@
         }
     },
     {
-        "ip": "95.217.103.21",
-        "port": 43210,
-        "build": 22837,
-        "name": "TMPLAY FFA",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "94.101.178.104",
-        "port": 43161,
-        "build": 22571,
-        "name": "\u2b50BSLIFE | THE LIFE CITY",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "94.101.178.104",
-        "port": 43195,
-        "build": 22571,
-        "name": "\u2b50BSLIFE | FFA SMASH SLOW 03",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "94.101.178.104",
-        "port": 43132,
-        "build": 22571,
-        "name": "\u2b50BSLIFE | FFA SMASH SLOW 02",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "94.101.178.104",
-        "port": 43125,
-        "build": 22571,
-        "name": "\u2b50BSLIFE | FFA 1",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
         "ip": "188.121.111.41",
         "port": 43179,
         "build": 22571,
         "name": "\u2b50BSLIFE | FOOTBALL MATCH",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "95.217.103.21",
+        "port": 43211,
+        "build": 22837,
+        "name": "TMPLAY TEAM",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -2725,46 +2734,55 @@
         }
     },
     {
-        "ip": "95.133.236.143",
-        "port": 25934,
-        "build": 14369,
-        "name": "Dreamer Server Duel",
+        "ip": "94.101.178.104",
+        "port": 43108,
+        "build": 22571,
+        "name": "\u2b50BSLIFE | UFC MATCH",
         "info": {
             "error": "Timeout waiting for accept"
         }
     },
     {
         "ip": "185.206.95.65",
-        "port": 43112,
+        "port": 43184,
         "build": 22571,
-        "name": "\u2b50BSLIFE | FOOTBALL SLOW 6",
+        "name": "\u2b50BSLIFE | VOLLEYBALL SLOW 1",
         "info": {
             "error": "Timeout waiting for accept"
         }
     },
     {
-        "ip": "185.206.95.65",
-        "port": 43185,
+        "ip": "94.101.178.104",
+        "port": 43125,
         "build": 22571,
-        "name": "\u2b50BSLIFE | VOLLEYBALL SLOW 2",
+        "name": "\u2b50BSLIFE | FFA 1",
         "info": {
             "error": "Timeout waiting for accept"
         }
     },
     {
-        "ip": "38.250.161.160",
-        "port": 6,
-        "build": 21005,
-        "name": "\u2620\ufe0fJujutsu Kaisen: Choque de Clan",
+        "ip": "94.101.178.104",
+        "port": 43161,
+        "build": 22571,
+        "name": "\u2b50BSLIFE | THE LIFE CITY",
         "info": {
             "error": "Timeout waiting for accept"
         }
     },
     {
         "ip": "45.82.137.150",
-        "port": 43213,
+        "port": 43156,
         "build": 22571,
-        "name": "\u2b50BSLIFE | FFA SLOW ZOOM 2",
+        "name": "\u2b50BSLIFE | COOP LAST STAND 2",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "94.101.178.104",
+        "port": 43132,
+        "build": 22571,
+        "name": "\u2b50BSLIFE | FFA SMASH SLOW 02",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -2780,27 +2798,9 @@
     },
     {
         "ip": "185.206.95.65",
-        "port": 43160,
+        "port": 43112,
         "build": 22571,
-        "name": "\u2b50BSLIFE | DUEL 2",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "94.101.178.104",
-        "port": 43126,
-        "build": 22571,
-        "name": "\u2b50BSLIFE | FFA SLOW 1",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "45.82.137.150",
-        "port": 43156,
-        "build": 22571,
-        "name": "\u2b50BSLIFE | COOP LAST STAND 2",
+        "name": "\u2b50BSLIFE | FOOTBALL SLOW 6",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -2810,15 +2810,6 @@
         "port": 43148,
         "build": 22571,
         "name": "\u2b50BSLIFE | COOP LAST STAND 3",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "37.32.22.153",
-        "port": 43171,
-        "build": 22571,
-        "name": "\u2b50BSLIFE | FFA SMASH SLOW 08",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -2834,9 +2825,9 @@
     },
     {
         "ip": "185.206.95.65",
-        "port": 43184,
+        "port": 43160,
         "build": 22571,
-        "name": "\u2b50BSLIFE | VOLLEYBALL SLOW 1",
+        "name": "\u2b50BSLIFE | DUEL 2",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -2851,10 +2842,59 @@
         }
     },
     {
+        "ip": "45.82.137.150",
+        "port": 43213,
+        "build": 22571,
+        "name": "\u2b50BSLIFE | FFA SLOW ZOOM 2",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "94.101.178.104",
+        "port": 43126,
+        "build": 22571,
+        "name": "\u2b50BSLIFE | FFA SLOW 1",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "185.206.95.65",
+        "port": 43185,
+        "build": 22571,
+        "name": "\u2b50BSLIFE | VOLLEYBALL SLOW 2",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "37.32.22.153",
+        "port": 43171,
+        "build": 22571,
+        "name": "\u2b50BSLIFE | FFA SMASH SLOW 08",
+        "info": {
+            "game_name": "",
+            "game_desc": "",
+            "map_name": "",
+            "scene_text": "",
+            "roster": []
+        }
+    },
+    {
         "ip": "185.206.95.65",
         "port": 43109,
         "build": 22571,
         "name": "\u2b50BSLIFE | VOLLEYBALL MATCH",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "45.82.137.150",
+        "port": 43153,
+        "build": 22571,
+        "name": "\u2b50BSLIFE | FFA SLOW 5",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -2878,19 +2918,10 @@
         }
     },
     {
-        "ip": "45.82.137.150",
-        "port": 43153,
-        "build": 22571,
-        "name": "\u2b50BSLIFE | FFA SLOW 5",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "188.121.111.41",
-        "port": 43178,
-        "build": 22571,
-        "name": "\u2b50BSLIFE | FOOTBALL SLOW 2",
+        "ip": "92.119.165.177",
+        "port": 7062,
+        "build": 22764,
+        "name": "# Belal Soccer 1 \u26bd",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -2905,19 +2936,10 @@
         }
     },
     {
-        "ip": "92.119.165.177",
-        "port": 7062,
-        "build": 22764,
-        "name": "# Belal Soccer 1 \u26bd",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "91.239.208.137",
-        "port": 25285,
-        "build": 22837,
-        "name": "hydd xo",
+        "ip": "188.121.111.41",
+        "port": 43178,
+        "build": 22571,
+        "name": "\u2b50BSLIFE | FOOTBALL SLOW 2",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -2932,24 +2954,6 @@
         }
     },
     {
-        "ip": "13.235.49.25",
-        "port": 43210,
-        "build": 22812,
-        "name": "\ud83e\udd4a|VORTEX & ZADKIEL SMASH|\ud83e\udd4a",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "15.206.94.135",
-        "port": 43210,
-        "build": 22626,
-        "name": "\ud83c\udfae Cuties \u2022 Non-Epic \ud83c\udfae",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
         "ip": "13.127.49.184",
         "port": 43210,
         "build": 23006,
@@ -2959,19 +2963,10 @@
         }
     },
     {
-        "ip": "141.11.5.156",
-        "port": 25786,
-        "build": 22837,
-        "name": "\ud83e\ude90 # NHD TEAMS \u2016 \u0633\u064a\u0631\u0641\u0631 \u0639\u0631\u0628\u064a",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "185.255.93.61",
+        "ip": "13.235.49.25",
         "port": 43210,
-        "build": 22569,
-        "name": "Z | Sector \u2022 TR Teams\ud83c\uddf9\ud83c\uddf7",
+        "build": 22812,
+        "name": "\ud83e\udd4a|VORTEX & ZADKIEL SMASH|\ud83e\udd4a",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -2986,6 +2981,15 @@
         }
     },
     {
+        "ip": "91.239.208.137",
+        "port": 25285,
+        "build": 22837,
+        "name": "hydd xo",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
         "ip": "63.177.91.64",
         "port": 6060,
         "build": 22925,
@@ -2995,10 +2999,46 @@
         }
     },
     {
-        "ip": "161.132.37.46",
-        "port": 43227,
+        "ip": "15.206.94.135",
+        "port": 43210,
+        "build": 22626,
+        "name": "\ud83c\udfae Cuties \u2022 Non-Epic \ud83c\udfae",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "185.255.93.61",
+        "port": 43210,
+        "build": 22569,
+        "name": "Z | Sector \u2022 TR Teams\ud83c\uddf9\ud83c\uddf7",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "141.11.5.156",
+        "port": 25786,
         "build": 22837,
-        "name": "\ud83c\udf00\ud83c\udf0ePortal BS || FFA Smash\ud83c\udf00\ud83e\udd4a",
+        "name": "\ud83e\ude90 # NHD TEAMS \u2016 \u0633\u064a\u0631\u0641\u0631 \u0639\u0631\u0628\u064a",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "51.195.46.24",
+        "port": 6677,
+        "build": 22517,
+        "name": "# Hype Soccer PRIVATE \ud83d\udd12\u26bd",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "51.195.46.24",
+        "port": 2019,
+        "build": 22517,
+        "name": "# Hype Teams \ud83e\udd4a {api9}",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -3022,33 +3062,6 @@
         }
     },
     {
-        "ip": "51.195.46.24",
-        "port": 2019,
-        "build": 22517,
-        "name": "# Hype Teams \ud83e\udd4a {api9}",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "68.233.118.171",
-        "port": 43210,
-        "build": 22584,
-        "name": "\u26bdElite Ace Soccer\u26bd",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "51.195.46.24",
-        "port": 6677,
-        "build": 22517,
-        "name": "# Hype Soccer PRIVATE \ud83d\udd12\u26bd",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
         "ip": "91.239.208.137",
         "port": 25769,
         "build": 22709,
@@ -3058,10 +3071,19 @@
         }
     },
     {
-        "ip": "172.105.50.73",
-        "port": 43210,
-        "build": 22845,
-        "name": "MALLU @SMASH OFFICIAL",
+        "ip": "161.132.37.46",
+        "port": 43227,
+        "build": 22837,
+        "name": "\ud83c\udf00\ud83c\udf0ePortal BS || FFA Smash\ud83c\udf00\ud83e\udd4a",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "161.132.37.46",
+        "port": 43230,
+        "build": 22837,
+        "name": "\ud83c\udf00\ud83c\udf0ePortal BS 2 || FFA Smash\ud83c\udf00\ud83e\udd4a",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -3085,10 +3107,28 @@
         }
     },
     {
-        "ip": "161.132.37.46",
-        "port": 43230,
-        "build": 22837,
-        "name": "\ud83c\udf00\ud83c\udf0ePortal BS 2 || FFA Smash\ud83c\udf00\ud83e\udd4a",
+        "ip": "68.233.118.171",
+        "port": 43210,
+        "build": 22584,
+        "name": "\u26bdElite Ace Soccer\u26bd",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "172.105.50.73",
+        "port": 43210,
+        "build": 22845,
+        "name": "MALLU @SMASH OFFICIAL",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "83.166.246.154",
+        "port": 43209,
+        "build": 22839,
+        "name": "Bs DeathMatch | DM\u2800\u2800",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -3112,79 +3152,10 @@
         }
     },
     {
-        "ip": "83.166.246.154",
-        "port": 43209,
-        "build": 22839,
-        "name": "Bs DeathMatch | DM\u2800\u2800",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "161.132.37.46",
-        "port": 1010,
-        "build": 22839,
-        "name": "|\ud83d\udc8e[UZC]Duel Latam Legacy|",
-        "info": {
-            "game_name": "Idle",
-            "game_desc": "",
-            "map_name": "Results",
-            "scene_text": "{\"v\":\"${A}:\",\"s\":[[\"${A}\",{\"r\":\"tipText\"}]]} | Create player profiles for yourself and your friends with\nyour preferred names and appearances instead of using random ones.\n{\"v\":\"${A}   ${B}\",\"s\":[[\"${A}\",{\"r\":\"upNextText\",\"s\":[[\"${COUNT}\",\"2\"]]}],[\"${B}\",{\"v\":\"${NAME} @ ${MAP}\",\"s\":[[\"${NAME}\",{\"t\":[\"gameNames\",\"Duel Latam\"]}],[\"${MAP}\",{\"t\":[\"mapsNames\",\"UZC Duel\"]}]]}]]} | {\"r\":\"gameLeadersText\",\"s\":[[\"${COUNT}\",\"1\"]]}\n{\"r\":\"firstToSeriesText\",\"s\":[[\"${COUNT}\",\"24\"]]} | {\"r\":\"pressAnyKeyButtonText\"}\n{\"r\":\"playerText\"} | {\"r\":\"killsText\"} | {\"r\":\"deathsText\"} | Score",
-            "roster": [
-                "Duel-Latam-Legacy (Spectating)"
-            ]
-        }
-    },
-    {
         "ip": "54.38.65.46",
         "port": 4102,
         "build": 22837,
         "name": "\u0633\u064a\u0631\u0641\u0631 \u0639\u0631\u0628\u064a(\u26bd\ud83c\udd57\ud83c\udd68\ud83c\udd53\ud83c\udd53Football \u26bd)",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "45.126.209.118",
-        "port": 43212,
-        "build": 14376,
-        "name": "\ud83d\udca5CAOS DUEL\ud83d\udca5",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "83.166.246.154",
-        "port": 43210,
-        "build": 22839,
-        "name": "Bs | Elim SM Clean\u2800",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "83.46.128.207",
-        "port": 43216,
-        "build": 22558,
-        "name": "Teams (NO SHIELDS)",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "37.32.22.153",
-        "port": 43142,
-        "build": 22571,
-        "name": "\u2b50BSLIFE | FOOTBALL 1",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "5.180.34.59",
-        "port": 25847,
-        "build": 14369,
-        "name": "\ua9c1\u0633\u064a\u0631\u0641\u0631 \u0639\u0631\u0628\u064a \u2666\ufe0f*AIJOHN*\u2694\ufe0f\ua9c2",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -3199,10 +3170,46 @@
         }
     },
     {
+        "ip": "83.166.246.154",
+        "port": 43210,
+        "build": 22839,
+        "name": "Bs | Elim SM Clean\u2800",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "5.180.34.59",
+        "port": 25847,
+        "build": 14369,
+        "name": "\ua9c1\u0633\u064a\u0631\u0641\u0631 \u0639\u0631\u0628\u064a \u2666\ufe0f*AIJOHN*\u2694\ufe0f\ua9c2",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
         "ip": "8.235.71.171",
         "port": 43210,
         "build": 22451,
         "name": "---|Pixel|-- epic teams",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "38.54.57.164",
+        "port": 43210,
+        "build": 22812,
+        "name": "\ud83d\udc95LaZoeXD SDMRC||Epic Smash FFA\ud83d\udc95",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "83.46.128.207",
+        "port": 43216,
+        "build": 22558,
+        "name": "Teams (NO SHIELDS)",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -3217,6 +3224,15 @@
         }
     },
     {
+        "ip": "45.126.209.118",
+        "port": 43212,
+        "build": 14376,
+        "name": "\ud83d\udca5CAOS DUEL\ud83d\udca5",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
         "ip": "94.101.178.104",
         "port": 43131,
         "build": 22571,
@@ -3226,10 +3242,10 @@
         }
     },
     {
-        "ip": "38.54.57.164",
-        "port": 43210,
-        "build": 22812,
-        "name": "\ud83d\udc95LaZoeXD SDMRC||Epic Smash FFA\ud83d\udc95",
+        "ip": "37.32.22.153",
+        "port": 43142,
+        "build": 22571,
+        "name": "\u2b50BSLIFE | FOOTBALL 1",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -3262,10 +3278,19 @@
         }
     },
     {
-        "ip": "83.46.128.207",
-        "port": 43210,
-        "build": 22558,
-        "name": "The Last Stand (Cooperative)",
+        "ip": "94.101.178.104",
+        "port": 43130,
+        "build": 22571,
+        "name": "\u2b50BSLIFE | FFA SMASH 1",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "13.233.237.149",
+        "port": 43211,
+        "build": 22714,
+        "name": "\ud83c\udf65 Buba Tea Party \ud83c\udf65",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -3281,9 +3306,18 @@
     },
     {
         "ip": "13.233.237.149",
-        "port": 43211,
+        "port": 43210,
         "build": 22714,
-        "name": "\ud83c\udf65 Buba Tea Party \ud83c\udf65",
+        "name": "\ud83c\udf38 Nikhil.B\ud83d\ude42 & Barbie \ud83c\udf38",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "161.132.37.46",
+        "port": 1010,
+        "build": 22839,
+        "name": "|\ud83d\udc8e[UZC]Duel Latam Legacy|",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -3298,10 +3332,10 @@
         }
     },
     {
-        "ip": "161.118.207.241",
-        "port": 43211,
-        "build": 22782,
-        "name": "Renata vs Gosquad \ud83c\udfb2 TEAMS",
+        "ip": "83.46.128.207",
+        "port": 43210,
+        "build": 22558,
+        "name": "The Last Stand (Cooperative)",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -3316,59 +3350,10 @@
         }
     },
     {
-        "ip": "13.233.237.149",
-        "port": 43210,
-        "build": 22714,
-        "name": "\ud83c\udf38 Nikhil.B\ud83d\ude42 & Barbie \ud83c\udf38",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "80.240.30.230",
-        "port": 43241,
-        "build": 22855,
-        "name": "\ud83d\udce6 MikiBox BSER Teams",
-        "info": {
-            "game_name": "",
-            "game_desc": "",
-            "map_name": "",
-            "scene_text": "",
-            "roster": []
-        }
-    },
-    {
-        "ip": "94.101.178.104",
-        "port": 43130,
-        "build": 22571,
-        "name": "\u2b50BSLIFE | FFA SMASH 1",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "185.226.116.245",
-        "port": 43180,
-        "build": 22571,
-        "name": "\u2b50BSLIFE | FFA SMASH SLOW 06",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
         "ip": "35.200.208.238",
         "port": 43212,
         "build": 22812,
         "name": "\ud83d\udc7e|VORTEX & ZADKIEL DUELS|\ud83d\udc7e",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "80.240.30.230",
-        "port": 43213,
-        "build": 22813,
-        "name": "\ud83d\udce6 MikiBox Hot Potato (Mika)",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -3383,15 +3368,6 @@
         }
     },
     {
-        "ip": "83.46.128.207",
-        "port": 43218,
-        "build": 22569,
-        "name": "Boxing Duel",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
         "ip": "161.118.207.241",
         "port": 43210,
         "build": 22782,
@@ -3401,19 +3377,10 @@
         }
     },
     {
-        "ip": "129.213.51.119",
-        "port": 43210,
-        "build": 22957,
-        "name": "omocat test(1.8.0a66 Version)",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "80.240.30.230",
-        "port": 43212,
-        "build": 22813,
-        "name": "\ud83d\udce6 MikiBox Hot Potato (Newman)",
+        "ip": "83.46.128.207",
+        "port": 43218,
+        "build": 22569,
+        "name": "Boxing Duel",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -3428,19 +3395,28 @@
         }
     },
     {
-        "ip": "45.82.137.150",
-        "port": 43214,
-        "build": 22571,
-        "name": "\u2b50BSLIFE | FFA SLOW 6",
+        "ip": "161.118.207.241",
+        "port": 43211,
+        "build": 22782,
+        "name": "Renata vs Gosquad \ud83c\udfb2 TEAMS",
         "info": {
             "error": "Timeout waiting for accept"
         }
     },
     {
-        "ip": "185.226.116.245",
-        "port": 43122,
-        "build": 22571,
-        "name": "\u2b50BSLIFE | UFC",
+        "ip": "80.240.30.230",
+        "port": 43213,
+        "build": 22813,
+        "name": "\ud83d\udce6 MikiBox Hot Potato (Mika)",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "129.213.51.119",
+        "port": 43210,
+        "build": 22957,
+        "name": "omocat test(1.8.0a66 Version)",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -3464,6 +3440,24 @@
         }
     },
     {
+        "ip": "185.226.116.245",
+        "port": 43180,
+        "build": 22571,
+        "name": "\u2b50BSLIFE | FFA SMASH SLOW 06",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "185.226.116.245",
+        "port": 43122,
+        "build": 22571,
+        "name": "\u2b50BSLIFE | UFC",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
         "ip": "80.240.30.230",
         "port": 43220,
         "build": 22813,
@@ -3473,10 +3467,19 @@
         }
     },
     {
-        "ip": "37.32.22.153",
-        "port": 43149,
+        "ip": "80.240.30.230",
+        "port": 43212,
+        "build": 22813,
+        "name": "\ud83d\udce6 MikiBox Hot Potato (Newman)",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "45.82.137.150",
+        "port": 43214,
         "build": 22571,
-        "name": "\u2b50BSLIFE | DUEL 1",
+        "name": "\u2b50BSLIFE | FFA SLOW 6",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -3486,15 +3489,6 @@
         "port": 43213,
         "build": 22782,
         "name": "Renata vs Gosquad \ud83e\udd4a FIGHT",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "80.240.30.230",
-        "port": 43240,
-        "build": 22855,
-        "name": "\ud83d\udce6 MikiBox BSER FFA",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -3510,9 +3504,18 @@
     },
     {
         "ip": "185.226.116.245",
-        "port": 43123,
+        "port": 43111,
         "build": 22571,
-        "name": "\u2b50BSLIFE | ZOMBIE LAND",
+        "name": "\u2b50BSLIFE | FFA 2",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "37.32.22.153",
+        "port": 43149,
+        "build": 22571,
+        "name": "\u2b50BSLIFE | DUEL 1",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -3528,9 +3531,36 @@
     },
     {
         "ip": "185.226.116.245",
-        "port": 43111,
+        "port": 43123,
         "build": 22571,
-        "name": "\u2b50BSLIFE | FFA 2",
+        "name": "\u2b50BSLIFE | ZOMBIE LAND",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "161.132.37.46",
+        "port": 43210,
+        "build": 22839,
+        "name": "FFA",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "80.240.30.230",
+        "port": 43241,
+        "build": 22855,
+        "name": "\ud83d\udce6 MikiBox BSER Teams",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "185.226.116.245",
+        "port": 43181,
+        "build": 22571,
+        "name": "\u2b50BSLIFE | FFA SMASH SLOW 05",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -3554,28 +3584,28 @@
         }
     },
     {
-        "ip": "185.226.116.245",
-        "port": 43181,
-        "build": 22571,
-        "name": "\u2b50BSLIFE | FFA SMASH SLOW 05",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "161.132.37.46",
+        "ip": "3.124.204.1",
         "port": 43210,
-        "build": 22839,
-        "name": "FFA",
+        "build": 22845,
+        "name": "\ud83c\udde9\ud83c\uddea MALLU EPIC DUELS",
         "info": {
             "error": "Timeout waiting for accept"
         }
     },
     {
-        "ip": "83.46.128.207",
-        "port": 43214,
-        "build": 22558,
-        "name": "Runaround (Cooperative)",
+        "ip": "80.240.30.230",
+        "port": 43240,
+        "build": 22855,
+        "name": "\ud83d\udce6 MikiBox BSER FFA",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "185.226.116.245",
+        "port": 43133,
+        "build": 22571,
+        "name": "\u2b50BSLIFE | TEAMS 1",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -3591,27 +3621,18 @@
     },
     {
         "ip": "188.121.111.41",
-        "port": 43127,
+        "port": 43174,
         "build": 22571,
-        "name": "\u2b50BSLIFE | FFA SLOW 2",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "3.124.204.1",
-        "port": 43210,
-        "build": 22845,
-        "name": "\ud83c\udde9\ud83c\uddea MALLU EPIC DUELS",
+        "name": "\u2b50BSLIFE | COOP LAST STAND 1",
         "info": {
             "error": "Timeout waiting for accept"
         }
     },
     {
         "ip": "188.121.111.41",
-        "port": 43166,
+        "port": 43127,
         "build": 22571,
-        "name": "\u2b50BSLIFE | ZOMBIE LAND SLOW 2",
+        "name": "\u2b50BSLIFE | FFA SLOW 2",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -3626,131 +3647,10 @@
         }
     },
     {
-        "ip": "52.66.202.255",
-        "port": 43210,
-        "build": 22557,
-        "name": "\ud83d\ude08Hell Queen'z \u00d7 Sara Epic Teams\ud83d\ude08",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
         "ip": "188.121.111.41",
-        "port": 43174,
+        "port": 43166,
         "build": 22571,
-        "name": "\u2b50BSLIFE | COOP LAST STAND 1",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "188.121.111.41",
-        "port": 43217,
-        "build": 22571,
-        "name": "\u2b50BSLIFE | OLYMPIC",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "13.203.217.117",
-        "port": 43210,
-        "build": 22975,
-        "name": "FFA",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "3.110.103.9",
-        "port": 43210,
-        "build": 22714,
-        "name": "\ud83e\ude78 BLOODBURNER EPIC TEAMS \ud83e\ude78",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "185.226.116.245",
-        "port": 43133,
-        "build": 22571,
-        "name": "\u2b50BSLIFE | TEAMS 1",
-        "info": {
-            "game_name": "",
-            "game_desc": "",
-            "map_name": "",
-            "scene_text": "",
-            "roster": []
-        }
-    },
-    {
-        "ip": "188.121.111.41",
-        "port": 43176,
-        "build": 22571,
-        "name": "\u2b50BSLIFE | FFA SMASH SLOW 11",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "212.86.115.139",
-        "port": 10004,
-        "build": 22465,
-        "name": "Enova Star Soccer || Futbol \u26bd\ufe0f",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "8.218.47.121",
-        "port": 43210,
-        "build": 22702,
-        "name": "\u674e\u5b89\u5357\u72c2\u66b4\u6df7\u6218",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "188.121.111.41",
-        "port": 43211,
-        "build": 22571,
-        "name": "\u2b50BSLIFE | DUEL MATCH",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "188.121.111.41",
-        "port": 43177,
-        "build": 22571,
-        "name": "\u2b50BSLIFE | FOOTBALL SLOW 1",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "13.127.0.148",
-        "port": 43210,
-        "build": 22827,
-        "name": "ASHX|DEST TEST",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "168.75.74.22",
-        "port": 43212,
-        "build": 22870,
-        "name": "Alliances @ South America 1+2",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "8.134.221.40",
-        "port": 43210,
-        "build": 22877,
-        "name": "[Xin131\u00d7\u968f\u98ce] \u9ca8\u9c7c\u5355\u6311\u670d\u2694\ufe0fsolo\u6b7b\u6597\ud83c\udde8\ud83c\uddf3",
+        "name": "\u2b50BSLIFE | ZOMBIE LAND SLOW 2",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -3765,19 +3665,127 @@
         }
     },
     {
-        "ip": "24.102.173.5",
-        "port": 43213,
-        "build": 22925,
-        "name": "KickAssUSA - Arena Champions",
+        "ip": "83.46.128.207",
+        "port": 43214,
+        "build": 22558,
+        "name": "Runaround (Cooperative)",
         "info": {
             "error": "Timeout waiting for accept"
         }
     },
     {
-        "ip": "45.126.209.9",
+        "ip": "188.121.111.41",
+        "port": 43176,
+        "build": 22571,
+        "name": "\u2b50BSLIFE | FFA SMASH SLOW 11",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "168.75.74.22",
+        "port": 43212,
+        "build": 22870,
+        "name": "Alliances @ South America 1+2",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "188.121.111.41",
+        "port": 43217,
+        "build": 22571,
+        "name": "\u2b50BSLIFE | OLYMPIC",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "13.127.0.148",
+        "port": 43210,
+        "build": 22827,
+        "name": "ASHX|DEST TEST",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "188.121.111.41",
+        "port": 43177,
+        "build": 22571,
+        "name": "\u2b50BSLIFE | FOOTBALL SLOW 1",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "3.110.103.9",
+        "port": 43210,
+        "build": 22714,
+        "name": "\ud83e\ude78 BLOODBURNER EPIC TEAMS \ud83e\ude78",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "212.86.115.139",
+        "port": 10004,
+        "build": 22465,
+        "name": "Enova Star Soccer || Futbol \u26bd\ufe0f",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "188.121.111.41",
         "port": 43211,
-        "build": 22812,
-        "name": "\ud83d\udc95LaZoeXD MMI 2||Epic Smash FFA\ud83d\udc95",
+        "build": 22571,
+        "name": "\u2b50BSLIFE | DUEL MATCH",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "52.66.202.255",
+        "port": 43210,
+        "build": 22557,
+        "name": "\ud83d\ude08Hell Queen'z \u00d7 Sara Epic Teams\ud83d\ude08",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "13.203.217.117",
+        "port": 43210,
+        "build": 22975,
+        "name": "FFA",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "8.218.47.121",
+        "port": 43210,
+        "build": 22702,
+        "name": "\u674e\u5b89\u5357\u72c2\u66b4\u6df7\u6218",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "8.134.221.40",
+        "port": 43210,
+        "build": 22877,
+        "name": "[Xin131\u00d7\u968f\u98ce] \u9ca8\u9c7c\u5355\u6311\u670d\u2694\ufe0fsolo\u6b7b\u6597\ud83c\udde8\ud83c\uddf3",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "24.102.173.5",
+        "port": 43213,
+        "build": 22925,
+        "name": "KickAssUSA - Arena Champions",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -3796,6 +3804,15 @@
         "port": 43219,
         "build": 22558,
         "name": "FFA (NO SHIELDS)",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "45.126.209.9",
+        "port": 43211,
+        "build": 22812,
+        "name": "\ud83d\udc95LaZoeXD MMI 2||Epic Smash FFA\ud83d\udc95",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -3846,19 +3863,19 @@
         }
     },
     {
-        "ip": "157.151.30.243",
-        "port": 43211,
-        "build": 21005,
-        "name": "Budapest | & | Futgrandao",
+        "ip": "68.233.102.164",
+        "port": 43210,
+        "build": 22779,
+        "name": "chotta mumbai",
         "info": {
             "error": "Timeout waiting for accept"
         }
     },
     {
-        "ip": "161.132.37.46",
-        "port": 888,
-        "build": 22839,
-        "name": "\ud83d\udca5[UZC] Ultra Smash Bolivia\ud83d\udca3",
+        "ip": "157.151.30.243",
+        "port": 43211,
+        "build": 21005,
+        "name": "Budapest | & | Futgrandao",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -3882,19 +3899,10 @@
         }
     },
     {
-        "ip": "37.32.22.153",
-        "port": 43124,
-        "build": 22571,
-        "name": "\u2b50BSLIFE | ZOMBIE LAND SLOW 1",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "68.233.102.164",
-        "port": 43210,
-        "build": 22779,
-        "name": "chotta mumbai",
+        "ip": "161.132.37.46",
+        "port": 888,
+        "build": 22839,
+        "name": "\ud83d\udca5[UZC] Ultra Smash Bolivia\ud83d\udca3",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -3910,24 +3918,11 @@
     },
     {
         "ip": "37.32.22.153",
-        "port": 43135,
+        "port": 43124,
         "build": 22571,
-        "name": "\u2b50BSLIFE | FFA SLOW ZOOM 1",
+        "name": "\u2b50BSLIFE | ZOMBIE LAND SLOW 1",
         "info": {
             "error": "Timeout waiting for accept"
-        }
-    },
-    {
-        "ip": "111.229.106.35",
-        "port": 43210,
-        "build": 20654,
-        "name": "AHA\u56e2\u961fteams(\u4e0a\u6d77\u7ebf\u8def\u5730\u5740bs.ahaly.cc)",
-        "info": {
-            "game_name": "",
-            "game_desc": "",
-            "map_name": "",
-            "scene_text": "",
-            "roster": []
         }
     },
     {
@@ -3949,10 +3944,19 @@
         }
     },
     {
-        "ip": "168.75.74.22",
-        "port": 43213,
+        "ip": "37.32.22.153",
+        "port": 43135,
+        "build": 22571,
+        "name": "\u2b50BSLIFE | FFA SLOW ZOOM 1",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "129.148.62.112",
+        "port": 43211,
         "build": 22870,
-        "name": "Co-op I @ South America 1+2",
+        "name": "Classic Teams @ S. America 1+2",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -3967,6 +3971,15 @@
         }
     },
     {
+        "ip": "168.75.74.22",
+        "port": 43213,
+        "build": 22870,
+        "name": "Co-op I @ South America 1+2",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
         "ip": "161.153.205.185",
         "port": 43210,
         "build": 22813,
@@ -3976,10 +3989,10 @@
         }
     },
     {
-        "ip": "129.148.62.112",
-        "port": 43211,
-        "build": 22870,
-        "name": "Classic Teams @ S. America 1+2",
+        "ip": "94.101.178.104",
+        "port": 43194,
+        "build": 22571,
+        "name": "\u2b50BSLIFE | FFA SMASH SLOW 04",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -4012,15 +4025,6 @@
         }
     },
     {
-        "ip": "94.101.178.104",
-        "port": 43194,
-        "build": 22571,
-        "name": "\u2b50BSLIFE | FFA SMASH SLOW 04",
-        "info": {
-            "error": "Timeout waiting for accept"
-        }
-    },
-    {
         "ip": "24.102.173.5",
         "port": 43212,
         "build": 22925,
@@ -4048,10 +4052,19 @@
         }
     },
     {
-        "ip": "13.127.209.126",
+        "ip": "111.229.106.35",
         "port": 43210,
-        "build": 22714,
-        "name": "\ud83d\udca2 OMEGA PROS \u2016 FFA",
+        "build": 20654,
+        "name": "AHA\u56e2\u961fteams(\u4e0a\u6d77\u7ebf\u8def\u5730\u5740bs.ahaly.cc)",
+        "info": {
+            "error": "Timeout waiting for accept"
+        }
+    },
+    {
+        "ip": "65.1.65.75",
+        "port": 43220,
+        "build": 22584,
+        "name": "AS PARADISE",
         "info": {
             "error": "Timeout waiting for accept"
         }
@@ -4066,19 +4079,19 @@
         }
     },
     {
-        "ip": "13.127.0.148",
-        "port": 11111,
-        "build": 22584,
-        "name": "\ud83e\uddffASHX VS THUNDER EPIC TEAMS\ud83e\uddff",
+        "ip": "13.127.209.126",
+        "port": 43210,
+        "build": 22714,
+        "name": "\ud83d\udca2 OMEGA PROS \u2016 FFA",
         "info": {
             "error": "Timeout waiting for accept"
         }
     },
     {
-        "ip": "65.1.65.75",
-        "port": 43220,
+        "ip": "13.127.0.148",
+        "port": 11111,
         "build": 22584,
-        "name": "AS PARADISE",
+        "name": "\ud83e\uddffASHX VS THUNDER EPIC TEAMS\ud83e\uddff",
         "info": {
             "error": "Timeout waiting for accept"
         }
