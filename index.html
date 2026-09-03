@@ -315,7 +315,7 @@
         // Fetch data on load
         async function fetchData() {
             try {
-                const response = await fetch('https://gist.githubusercontent.com/BroBordd/68d9597db082ef352f8160f777b7060a/raw/information.txt?t=' + new Date().getTime());
+                const response = await fetch('https://gist.githubusercontent.com/BroBordd/68d9597db082ef352f8160f777b7060a/raw/information.json?t=' + new Date().getTime());
                 if (!response.ok) throw new Error("Failed to fetch from gist");
 
                 const rawData = await response.json();
