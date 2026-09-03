@@ -315,10 +315,15 @@
         // Fetch data on load
         async function fetchData() {
             try {
-                const response = await fetch('information.json?t=' + new Date().getTime());
-                if (!response.ok) throw new Error("Failed to fetch information.json");
+                const response = await fetch('https://api.jsonbin.io/v3/b/6a997e6ada38895dfe341f19/latest?t=' + new Date().getTime(), {
+                    headers: {
+                        'X-Access-Key': '$2a$10$nP3jQXaXHtUBVIfLg5I53uZjilug3WZV/gmItG9ado5nARFDbngYS'
+                    }
+                });
+                if (!response.ok) throw new Error("Failed to fetch from jsonbin");
 
-                const rawData = await response.json();
+                const payload = await response.json();
+                const rawData = payload.record;
 
                 // Sort servers: Players > Empty > Offline
                 allServers = sortServers(rawData);
@@ -328,7 +333,7 @@
                     <div class="error-text" style="justify-content: center; font-size: 1.1rem; margin-bottom: 8px;">
                         ${ICONS.alert} Error loading data: ${error.message}
                     </div>
-                    <small style="color: var(--text-muted)">Make sure information.json exists in the repository.</small>
+                    <small style="color: var(--text-muted)">Make sure the jsonbin bin is accessible.</small>
                 `;
             }
         }
